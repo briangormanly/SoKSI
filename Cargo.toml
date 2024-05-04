@@ -1,0 +1,13 @@
+[package]
+name = "sandpile-discrete"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "*"
+lazy_static = "1.4.0"
+nix = "0.28.0"
+chrono = "0.4.19"
+rayon = "1.5.1"

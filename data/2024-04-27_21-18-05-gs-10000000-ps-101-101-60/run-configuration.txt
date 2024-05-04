@@ -1,0 +1,17 @@
+Run configuration
+---------------------------------------------------------------------------------------------------
+Total Grains: 10000000
+Pile Size: 101 x 101 x 60
+Terminal Free Fall Speed: 3
+Base Resilience: 3
+Base Capacity: 4
+Base Avalanche Method: 2
+Base Avalanche Size: (base for avalanche method=1) 2
+Base Avalanche Size Percent (for avalanche method=2): 0.75
+Alpha Main (default - not used currently): 1.6
+Alpha Landing (variance for initial x,y deviation from center): 1.4
+Alpha Extra Energy (amount of additional energy added to impact): 1.2
+Alpha Avalanche Size (additional grains that join avalanche added to BASE by selected Method): 1.2
+Alpha Location Extra Capacity (additional capacity at location): 2.2
+Alpha Location Extra Resilience (additional resilience of location): 1.15
+---------------------------------------------------------------------------------------------------

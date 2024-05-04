@@ -1,8 +1,10 @@
-# Discrete Sandpile Experiment
+# SoKSI - Self-Organized Kinetic Stochastic Interaction
 ## Research in modeling Power Laws
 
 ### Overview
-The 5-discrete-critical/ folder contains the working sandpile of interest, the other folders are all pre-experiments mostly in learning rust and playing with appropriate data-structures and ui techniques. None of the other folders demonstrate criticality or power law outcomes, but instead build the model to the critical state but exhibit no invariance of scale as future additions of grains simply roll off the pile. The model in 5-discrete-critical/ does exhibit these properties and will be the only model discussed.
+A exploratory model investigating the critical dynamics prevalent in complex systems, focusing on the depiction of the cascading events that lead to critical transitions.
+
+This model has been developed to investigate the critical dynamics prevalent in complex systems. This model, named the Self-Organized Kinetic Stochastic Interaction model, extends traditional cellular automata by incorporating non-deterministic rule sets for state transitions, which are governed by interactions among elements—specifically grains—during avalanche events. The model integrates stochasticity through a power-law-distributed function, enhancing the system's heterogeneity, And simulates the kinetic energy and the consequent momentum transfer in collisions, a method not typically observed in cellular automata frameworks.
 
 ## Setup / Use
 ###
@@ -12,7 +14,7 @@ Clone / Download zip
 Install Rust [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
 ### Configure SoKSI parameters
-Open the [util/constants.rs file](util/constants.rs) and configure the parameters
+Open the [src/util/constants.rs file](src/util/constants.rs) and configure the parameters
 
 ### Test Run 
 ```

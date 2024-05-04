@@ -8,7 +8,7 @@ This model has been developed to investigate the critical dynamics prevalent in 
 
 ## Setup / Use
 ###
-Clone / Download zip
+Clone / Download zip file of this repository and navigate to the project folder.
 
 ### Pre-requisites 
 Install Rust [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)

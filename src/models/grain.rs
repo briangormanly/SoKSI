@@ -199,7 +199,7 @@ impl Grain {
             
         } else {
             // the grain has made it all the way to the lowest level, check the pier neighboorhood at the same level
-            let pierNeighborhood: Vec<(i32, i32, i32)> = crate::models::location::Location::getLowerNeighborhood(self.x, self.y, self.z);
+            let pierNeighborhood: Vec<(i32, i32, i32)> = crate::models::location::Location::getLowerNeighborhood(self.x, self.y, self.z+1);
             
             movement += 1;
 

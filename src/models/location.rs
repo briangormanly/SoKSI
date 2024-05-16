@@ -161,15 +161,15 @@ impl Location {
             // get the grain by its id
             let mut grain = Grain::getGrainById(grainId as u32).unwrap();
 
-            // set the grain state to sationary
+            // set the grain state to stationary
             grain.state = GrainState::Stationary;
 
             // remove the grains energy
             let energy = grain.energy;
             grain.energy = 0;
 
-            // note that the grain stoped at this location
-            //println!("Grain {} stopped at location x: {}, y: {}, z: {} Grian x: {}, y: {}, z: {}", grain.id, self.x, self.y, self.z, grain.x, grain.y, grain.z);
+            // note that the grain stopped at this location
+            //println!("Grain {} stopped at location x: {}, y: {}, z: {} Grain x: {}, y: {}, z: {}", grain.id, self.x, self.y, self.z, grain.x, grain.y, grain.z);
 
             // save the grain
             grain.saveGrain();
@@ -370,12 +370,21 @@ impl Location {
             for y in 0..Y_SIZE {
                 write!( writer, "\n")?;
                 for x in 0..X_SIZE {
+
                     // get the location at this x, y, z
                     let location = Location::getLocationByXyz(x, y, z).unwrap();
 
+                    // check to see if the location is within the slope of criticality
+                    if location.capacity > 0 {
+                        write!( writer, "{}", location.getNumberOfGrains())?;
+                        grandTotal += location.getNumberOfGrains();
+                    }
+                    else {
+                        write!( writer, " ")?;
+                    }
+
                     //print!("x:{}, y:{}, z:{} value:{}", x, y, z, );
-                    write!( writer, "{}", location.getNumberOfGrains())?;
-                    grandTotal += location.getNumberOfGrains();
+                    
                 }
             }
             write!( writer, "\n")?;

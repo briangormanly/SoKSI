@@ -188,10 +188,10 @@ impl Location {
             grain.state = GrainState::Rolling;
 
             let energy: usize = grain.energy;
-            // reduce the grains energy from the impact
-            if grain.energy > 1 {
-                grain.energy = 1;
-            }
+            // // reduce the grains energy from the impact
+            // if grain.energy > 1 {
+            //     grain.energy = 1;
+            // }
             // save the grain state
             grain.saveGrain();
 
@@ -236,63 +236,45 @@ impl Location {
             if DEBUG && DEBUG_AVALANCHE { println!("+++++ Avalanche size: {}", avalancheSize) };
             let mut looseGrainIds: Vec<u32> = Vec::new();
 
-            // return the grains that are part of the avalanche
+            // add the grains to the avalanche and remove them from the location
             for i in 0..avalancheSize {
                 looseGrainIds.push(self.grainIds.pop().unwrap());
             }
 
-            
-
-            // create a vector to hold any additional grains that fall from above
-            let mut additionalGrains: Vec<u32> = Vec::new();
-
-            
-
-            //add the additional grains to the looseGrainIds
-            looseGrainIds.append(&mut additionalGrains);
-
-            // get ceiling grains
-            let ceilingGrains = Location::getCeilingLocations(self.x, self.y, self.z);
-
-            // check locations above to ensure they fall into the avalanche
-            for (x, y, z) in ceilingGrains {
+            // check all of the locations above the current location, any grains in these locations should join the avalanche
+            let mut z_level = self.z + 1;
+            while z_level < Z_SIZE - 1 {
                 
-                let location = Location::getLocationByXyz(x, y, z).unwrap();
-                if DEBUG && DEBUG_AVALANCHE { println!("~~~~~~~~~~~~~ Location x: {}, y: {}, z: {} ~~~~~~~~ had location above with {} gains", x, y, z, location.grainIds.len()) };
-                for grainId in &location.grainIds {
-                    let mut grain = Grain::getGrainById(*grainId).unwrap();
-                    grain.state = GrainState::Rolling;
-                    grain.energy += 1;
-                    grain.saveGrain();
-                    if DEBUG && DEBUG_AVALANCHE { println!("~~~~~~~~~~~~~ Grain id: {} x: {}, y: {}, z: {} joined from above ~~~~~~~~", grain.id, grain.x, grain.y, grain.z) };
+                //let ceilingGrains = Location::getCeilingLocations();
+                let mut above_location = Location::getLocationByXyz(self.x, self.y, z_level).unwrap();
+                println!("loc: {}, {}, {} checking above {}, {}, {} has # grains {}", self.x, self.y, self.z, self.x, self.y, z_level, above_location.grainIds.len());
+                // for (x, y, z) in ceilingGrains {
+                //     let mut above_location = Location::getLocationByXyz(x, y, z).unwrap();
+
+                //  add the grains to the avalanche and remove them from the location
+                
+                for i in 0..above_location.grainIds.len() {
+                    looseGrainIds.push(above_location.grainIds.pop().unwrap());
                 }
+
+                println!("after adding grains to avalanche, loc: {}, {}, {} checking above {}, {}, {} has # grains {}", self.x, self.y, self.z, self.x, self.y, z_level, above_location.grainIds.len());
+                //}
+                z_level += 1;
             }
 
-            // change the grains state to rolling
+            // update the grains that are now in the avalanche, set their state to rolling
             for grainId in &looseGrainIds {
                 let mut grain = Grain::getGrainById(*grainId).unwrap();
                 grain.state = GrainState::Rolling;
                 grain.energy += 1;
-                additionalGrains.push(grain.id);
+                //additionalGrains.push(grain.id);
                 
 
                 grain.saveGrain();
             }
 
-            // remove the grain from the location ids
-            // if (ceilingGrains.len() > 0) {
-            //     println!("number of grains at location before removal: {} grains: {:?}", self.grainIds.len(), self.grainIds);
-            // }
-            if self.grainIds.len() > 0 && looseGrainIds.len() > 0{
-                self.grainIds.retain(|&x| x != looseGrainIds[0]);
-            }
-            //self.grainIds.retain(|&x| x != looseGrainIds[0]);
-
             // save the location
             self.saveLocation();
-            // if (ceilingGrains.len() > 0) {
-            //     println!("number of grains at location after removal: {} grains: {:?}", self.grainIds.len(), self.grainIds);
-            // }
 
             if DEBUG && DEBUG_AVALANCHE { println!("**************************!! Avalanche at location x: {}, y: {}, z: {} location contains {} grains (after pertubation)", self.x, self.y, self.z, self.grainIds.len()) };
             return looseGrainIds;

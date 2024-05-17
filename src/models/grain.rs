@@ -124,7 +124,7 @@ impl Grain {
         if self.z > 0 {
             let below_location = crate::models::location::Location::getLocationByXyz(self.x, self.y, self.z-1).unwrap();
             // check to see if the location is empty space (not part of the pile) this is known because it will have a capacity and resilience of 0
-            if location.capacity == 0 && location.resilience == 0 || ( self.z > 0 && below_location.grainIds.len() < below_location.capacity ) {
+            if ( location.capacity == 0 && location.resilience == 0 ) || ( self.z > 0 && below_location.grainIds.len() < below_location.capacity ) {
                 // the grain is in free fall
                 self.z -= 1;
                 movement += 1;
@@ -198,7 +198,7 @@ impl Grain {
             
             
         } else {
-            // the grain has made it all the way to the lowest level, check the pier neighboorhood at the same level
+            // the grain has made it all the way to the lowest level, check the pier neighborhood at the same level
             let pierNeighborhood: Vec<(i32, i32, i32)> = crate::models::location::Location::getLowerNeighborhood(self.x, self.y, self.z+1);
             
             movement += 1;

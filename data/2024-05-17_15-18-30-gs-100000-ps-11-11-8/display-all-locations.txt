@@ -1,0 +1,2780 @@
+
+x:0, y:0, z:7 grains: []
+
+x:1, y:0, z:7 grains: []
+
+x:2, y:0, z:7 grains: []
+
+x:3, y:0, z:7 grains: []
+
+x:4, y:0, z:7 grains: []
+
+x:5, y:0, z:7 grains: []
+
+x:6, y:0, z:7 grains: []
+
+x:7, y:0, z:7 grains: []
+
+x:8, y:0, z:7 grains: []
+
+x:9, y:0, z:7 grains: []
+
+x:10, y:0, z:7 grains: []
+
+x:0, y:1, z:7 grains: []
+
+x:1, y:1, z:7 grains: []
+
+x:2, y:1, z:7 grains: []
+
+x:3, y:1, z:7 grains: []
+
+x:4, y:1, z:7 grains: []
+
+x:5, y:1, z:7 grains: []
+
+x:6, y:1, z:7 grains: []
+
+x:7, y:1, z:7 grains: []
+
+x:8, y:1, z:7 grains: []
+
+x:9, y:1, z:7 grains: []
+
+x:10, y:1, z:7 grains: []
+
+x:0, y:2, z:7 grains: []
+
+x:1, y:2, z:7 grains: []
+
+x:2, y:2, z:7 grains: []
+
+x:3, y:2, z:7 grains: []
+
+x:4, y:2, z:7 grains: []
+
+x:5, y:2, z:7 grains: []
+
+x:6, y:2, z:7 grains: []
+
+x:7, y:2, z:7 grains: []
+
+x:8, y:2, z:7 grains: []
+
+x:9, y:2, z:7 grains: []
+
+x:10, y:2, z:7 grains: []
+
+x:0, y:3, z:7 grains: []
+
+x:1, y:3, z:7 grains: []
+
+x:2, y:3, z:7 grains: []
+
+x:3, y:3, z:7 grains: []
+
+x:4, y:3, z:7 grains: []
+
+x:5, y:3, z:7 grains: []
+
+x:6, y:3, z:7 grains: []
+
+x:7, y:3, z:7 grains: []
+
+x:8, y:3, z:7 grains: []
+
+x:9, y:3, z:7 grains: []
+
+x:10, y:3, z:7 grains: []
+
+x:0, y:4, z:7 grains: []
+
+x:1, y:4, z:7 grains: []
+
+x:2, y:4, z:7 grains: []
+
+x:3, y:4, z:7 grains: []
+
+x:4, y:4, z:7 grains: []
+
+x:5, y:4, z:7 grains: []
+
+x:6, y:4, z:7 grains: []
+
+x:7, y:4, z:7 grains: []
+
+x:8, y:4, z:7 grains: []
+
+x:9, y:4, z:7 grains: []
+
+x:10, y:4, z:7 grains: []
+
+x:0, y:5, z:7 grains: []
+
+x:1, y:5, z:7 grains: []
+
+x:2, y:5, z:7 grains: []
+
+x:3, y:5, z:7 grains: []
+
+x:4, y:5, z:7 grains: []
+
+x:5, y:5, z:7 grains: []
+
+x:6, y:5, z:7 grains: []
+
+x:7, y:5, z:7 grains: []
+
+x:8, y:5, z:7 grains: []
+
+x:9, y:5, z:7 grains: []
+
+x:10, y:5, z:7 grains: []
+
+x:0, y:6, z:7 grains: []
+
+x:1, y:6, z:7 grains: []
+
+x:2, y:6, z:7 grains: []
+
+x:3, y:6, z:7 grains: []
+
+x:4, y:6, z:7 grains: []
+
+x:5, y:6, z:7 grains: []
+
+x:6, y:6, z:7 grains: []
+
+x:7, y:6, z:7 grains: []
+
+x:8, y:6, z:7 grains: []
+
+x:9, y:6, z:7 grains: []
+
+x:10, y:6, z:7 grains: []
+
+x:0, y:7, z:7 grains: []
+
+x:1, y:7, z:7 grains: []
+
+x:2, y:7, z:7 grains: []
+
+x:3, y:7, z:7 grains: []
+
+x:4, y:7, z:7 grains: []
+
+x:5, y:7, z:7 grains: []
+
+x:6, y:7, z:7 grains: []
+
+x:7, y:7, z:7 grains: []
+
+x:8, y:7, z:7 grains: []
+
+x:9, y:7, z:7 grains: []
+
+x:10, y:7, z:7 grains: []
+
+x:0, y:8, z:7 grains: []
+
+x:1, y:8, z:7 grains: []
+
+x:2, y:8, z:7 grains: []
+
+x:3, y:8, z:7 grains: []
+
+x:4, y:8, z:7 grains: []
+
+x:5, y:8, z:7 grains: []
+
+x:6, y:8, z:7 grains: []
+
+x:7, y:8, z:7 grains: []
+
+x:8, y:8, z:7 grains: []
+
+x:9, y:8, z:7 grains: []
+
+x:10, y:8, z:7 grains: []
+
+x:0, y:9, z:7 grains: []
+
+x:1, y:9, z:7 grains: []
+
+x:2, y:9, z:7 grains: []
+
+x:3, y:9, z:7 grains: []
+
+x:4, y:9, z:7 grains: []
+
+x:5, y:9, z:7 grains: []
+
+x:6, y:9, z:7 grains: []
+
+x:7, y:9, z:7 grains: []
+
+x:8, y:9, z:7 grains: []
+
+x:9, y:9, z:7 grains: []
+
+x:10, y:9, z:7 grains: []
+
+x:0, y:10, z:7 grains: []
+
+x:1, y:10, z:7 grains: []
+
+x:2, y:10, z:7 grains: []
+
+x:3, y:10, z:7 grains: []
+
+x:4, y:10, z:7 grains: []
+
+x:5, y:10, z:7 grains: []
+
+x:6, y:10, z:7 grains: []
+
+x:7, y:10, z:7 grains: []
+
+x:8, y:10, z:7 grains: []
+
+x:9, y:10, z:7 grains: []
+
+x:10, y:10, z:7 grains: []
+
+x:0, y:0, z:6 grains: []
+
+x:1, y:0, z:6 grains: []
+
+x:2, y:0, z:6 grains: []
+
+x:3, y:0, z:6 grains: []
+
+x:4, y:0, z:6 grains: []
+
+x:5, y:0, z:6 grains: []
+
+x:6, y:0, z:6 grains: []
+
+x:7, y:0, z:6 grains: []
+
+x:8, y:0, z:6 grains: []
+
+x:9, y:0, z:6 grains: []
+
+x:10, y:0, z:6 grains: []
+
+x:0, y:1, z:6 grains: []
+
+x:1, y:1, z:6 grains: []
+
+x:2, y:1, z:6 grains: []
+
+x:3, y:1, z:6 grains: []
+
+x:4, y:1, z:6 grains: []
+
+x:5, y:1, z:6 grains: []
+
+x:6, y:1, z:6 grains: []
+
+x:7, y:1, z:6 grains: []
+
+x:8, y:1, z:6 grains: []
+
+x:9, y:1, z:6 grains: []
+
+x:10, y:1, z:6 grains: []
+
+x:0, y:2, z:6 grains: []
+
+x:1, y:2, z:6 grains: []
+
+x:2, y:2, z:6 grains: []
+
+x:3, y:2, z:6 grains: []
+
+x:4, y:2, z:6 grains: []
+
+x:5, y:2, z:6 grains: []
+
+x:6, y:2, z:6 grains: []
+
+x:7, y:2, z:6 grains: []
+
+x:8, y:2, z:6 grains: []
+
+x:9, y:2, z:6 grains: []
+
+x:10, y:2, z:6 grains: []
+
+x:0, y:3, z:6 grains: []
+
+x:1, y:3, z:6 grains: []
+
+x:2, y:3, z:6 grains: []
+
+x:3, y:3, z:6 grains: []
+
+x:4, y:3, z:6 grains: []
+
+x:5, y:3, z:6 grains: []
+
+x:6, y:3, z:6 grains: []
+
+x:7, y:3, z:6 grains: []
+
+x:8, y:3, z:6 grains: []
+
+x:9, y:3, z:6 grains: []
+
+x:10, y:3, z:6 grains: []
+
+x:0, y:4, z:6 grains: []
+
+x:1, y:4, z:6 grains: []
+
+x:2, y:4, z:6 grains: []
+
+x:3, y:4, z:6 grains: []
+
+x:4, y:4, z:6 grains: []
+
+x:5, y:4, z:6 grains: []
+
+x:6, y:4, z:6 grains: []
+
+x:7, y:4, z:6 grains: []
+
+x:8, y:4, z:6 grains: []
+
+x:9, y:4, z:6 grains: []
+
+x:10, y:4, z:6 grains: []
+
+x:0, y:5, z:6 grains: []
+
+x:1, y:5, z:6 grains: []
+
+x:2, y:5, z:6 grains: []
+
+x:3, y:5, z:6 grains: []
+
+x:4, y:5, z:6 grains: []
+
+x:5, y:5, z:6 grains: []
+
+x:6, y:5, z:6 grains: []
+
+x:7, y:5, z:6 grains: []
+
+x:8, y:5, z:6 grains: []
+
+x:9, y:5, z:6 grains: []
+
+x:10, y:5, z:6 grains: []
+
+x:0, y:6, z:6 grains: []
+
+x:1, y:6, z:6 grains: []
+
+x:2, y:6, z:6 grains: []
+
+x:3, y:6, z:6 grains: []
+
+x:4, y:6, z:6 grains: []
+
+x:5, y:6, z:6 grains: []
+
+x:6, y:6, z:6 grains: []
+
+x:7, y:6, z:6 grains: []
+
+x:8, y:6, z:6 grains: []
+
+x:9, y:6, z:6 grains: []
+
+x:10, y:6, z:6 grains: []
+
+x:0, y:7, z:6 grains: []
+
+x:1, y:7, z:6 grains: []
+
+x:2, y:7, z:6 grains: []
+
+x:3, y:7, z:6 grains: []
+
+x:4, y:7, z:6 grains: []
+
+x:5, y:7, z:6 grains: []
+
+x:6, y:7, z:6 grains: []
+
+x:7, y:7, z:6 grains: []
+
+x:8, y:7, z:6 grains: []
+
+x:9, y:7, z:6 grains: []
+
+x:10, y:7, z:6 grains: []
+
+x:0, y:8, z:6 grains: []
+
+x:1, y:8, z:6 grains: []
+
+x:2, y:8, z:6 grains: []
+
+x:3, y:8, z:6 grains: []
+
+x:4, y:8, z:6 grains: []
+
+x:5, y:8, z:6 grains: []
+
+x:6, y:8, z:6 grains: []
+
+x:7, y:8, z:6 grains: []
+
+x:8, y:8, z:6 grains: []
+
+x:9, y:8, z:6 grains: []
+
+x:10, y:8, z:6 grains: []
+
+x:0, y:9, z:6 grains: []
+
+x:1, y:9, z:6 grains: []
+
+x:2, y:9, z:6 grains: []
+
+x:3, y:9, z:6 grains: []
+
+x:4, y:9, z:6 grains: []
+
+x:5, y:9, z:6 grains: []
+
+x:6, y:9, z:6 grains: []
+
+x:7, y:9, z:6 grains: []
+
+x:8, y:9, z:6 grains: []
+
+x:9, y:9, z:6 grains: []
+
+x:10, y:9, z:6 grains: []
+
+x:0, y:10, z:6 grains: []
+
+x:1, y:10, z:6 grains: []
+
+x:2, y:10, z:6 grains: []
+
+x:3, y:10, z:6 grains: []
+
+x:4, y:10, z:6 grains: []
+
+x:5, y:10, z:6 grains: []
+
+x:6, y:10, z:6 grains: []
+
+x:7, y:10, z:6 grains: []
+
+x:8, y:10, z:6 grains: []
+
+x:9, y:10, z:6 grains: []
+
+x:10, y:10, z:6 grains: []
+
+x:0, y:0, z:5 grains: []
+
+x:1, y:0, z:5 grains: []
+
+x:2, y:0, z:5 grains: []
+
+x:3, y:0, z:5 grains: []
+
+x:4, y:0, z:5 grains: []
+
+x:5, y:0, z:5 grains: []
+
+x:6, y:0, z:5 grains: []
+
+x:7, y:0, z:5 grains: []
+
+x:8, y:0, z:5 grains: []
+
+x:9, y:0, z:5 grains: []
+
+x:10, y:0, z:5 grains: []
+
+x:0, y:1, z:5 grains: []
+
+x:1, y:1, z:5 grains: []
+
+x:2, y:1, z:5 grains: []
+
+x:3, y:1, z:5 grains: []
+
+x:4, y:1, z:5 grains: []
+
+x:5, y:1, z:5 grains: []
+
+x:6, y:1, z:5 grains: []
+
+x:7, y:1, z:5 grains: []
+
+x:8, y:1, z:5 grains: []
+
+x:9, y:1, z:5 grains: []
+
+x:10, y:1, z:5 grains: []
+
+x:0, y:2, z:5 grains: []
+
+x:1, y:2, z:5 grains: []
+
+x:2, y:2, z:5 grains: []
+
+x:3, y:2, z:5 grains: []
+
+x:4, y:2, z:5 grains: []
+
+x:5, y:2, z:5 grains: []
+
+x:6, y:2, z:5 grains: []
+
+x:7, y:2, z:5 grains: []
+
+x:8, y:2, z:5 grains: []
+
+x:9, y:2, z:5 grains: []
+
+x:10, y:2, z:5 grains: []
+
+x:0, y:3, z:5 grains: []
+
+x:1, y:3, z:5 grains: []
+
+x:2, y:3, z:5 grains: []
+
+x:3, y:3, z:5 grains: []
+
+x:4, y:3, z:5 grains: []
+
+x:5, y:3, z:5 grains: []
+
+x:6, y:3, z:5 grains: []
+
+x:7, y:3, z:5 grains: []
+
+x:8, y:3, z:5 grains: []
+
+x:9, y:3, z:5 grains: []
+
+x:10, y:3, z:5 grains: []
+
+x:0, y:4, z:5 grains: []
+
+x:1, y:4, z:5 grains: []
+
+x:2, y:4, z:5 grains: []
+
+x:3, y:4, z:5 grains: []
+
+x:4, y:4, z:5 grains: []
+
+x:5, y:4, z:5 grains: []
+
+x:6, y:4, z:5 grains: []
+
+x:7, y:4, z:5 grains: []
+
+x:8, y:4, z:5 grains: []
+
+x:9, y:4, z:5 grains: []
+
+x:10, y:4, z:5 grains: []
+
+x:0, y:5, z:5 grains: []
+
+x:1, y:5, z:5 grains: []
+
+x:2, y:5, z:5 grains: []
+
+x:3, y:5, z:5 grains: []
+
+x:4, y:5, z:5 grains: []
+
+x:5, y:5, z:5 grains: [99761, 99762, 99765, 99767]
+ Grain id: 99761, x: 5, y: 5, z: 5, energy: 41
+ Grain id: 99762, x: 5, y: 5, z: 5, energy: 41
+ Grain id: 99765, x: 5, y: 5, z: 5, energy: 41
+ Grain id: 99767, x: 5, y: 5, z: 5, energy: 41
+
+x:6, y:5, z:5 grains: []
+
+x:7, y:5, z:5 grains: []
+
+x:8, y:5, z:5 grains: []
+
+x:9, y:5, z:5 grains: []
+
+x:10, y:5, z:5 grains: []
+
+x:0, y:6, z:5 grains: []
+
+x:1, y:6, z:5 grains: []
+
+x:2, y:6, z:5 grains: []
+
+x:3, y:6, z:5 grains: []
+
+x:4, y:6, z:5 grains: []
+
+x:5, y:6, z:5 grains: []
+
+x:6, y:6, z:5 grains: []
+
+x:7, y:6, z:5 grains: []
+
+x:8, y:6, z:5 grains: []
+
+x:9, y:6, z:5 grains: []
+
+x:10, y:6, z:5 grains: []
+
+x:0, y:7, z:5 grains: []
+
+x:1, y:7, z:5 grains: []
+
+x:2, y:7, z:5 grains: []
+
+x:3, y:7, z:5 grains: []
+
+x:4, y:7, z:5 grains: []
+
+x:5, y:7, z:5 grains: []
+
+x:6, y:7, z:5 grains: []
+
+x:7, y:7, z:5 grains: []
+
+x:8, y:7, z:5 grains: []
+
+x:9, y:7, z:5 grains: []
+
+x:10, y:7, z:5 grains: []
+
+x:0, y:8, z:5 grains: []
+
+x:1, y:8, z:5 grains: []
+
+x:2, y:8, z:5 grains: []
+
+x:3, y:8, z:5 grains: []
+
+x:4, y:8, z:5 grains: []
+
+x:5, y:8, z:5 grains: []
+
+x:6, y:8, z:5 grains: []
+
+x:7, y:8, z:5 grains: []
+
+x:8, y:8, z:5 grains: []
+
+x:9, y:8, z:5 grains: []
+
+x:10, y:8, z:5 grains: []
+
+x:0, y:9, z:5 grains: []
+
+x:1, y:9, z:5 grains: []
+
+x:2, y:9, z:5 grains: []
+
+x:3, y:9, z:5 grains: []
+
+x:4, y:9, z:5 grains: []
+
+x:5, y:9, z:5 grains: []
+
+x:6, y:9, z:5 grains: []
+
+x:7, y:9, z:5 grains: []
+
+x:8, y:9, z:5 grains: []
+
+x:9, y:9, z:5 grains: []
+
+x:10, y:9, z:5 grains: []
+
+x:0, y:10, z:5 grains: []
+
+x:1, y:10, z:5 grains: []
+
+x:2, y:10, z:5 grains: []
+
+x:3, y:10, z:5 grains: []
+
+x:4, y:10, z:5 grains: []
+
+x:5, y:10, z:5 grains: []
+
+x:6, y:10, z:5 grains: []
+
+x:7, y:10, z:5 grains: []
+
+x:8, y:10, z:5 grains: []
+
+x:9, y:10, z:5 grains: []
+
+x:10, y:10, z:5 grains: []
+
+x:0, y:0, z:4 grains: []
+
+x:1, y:0, z:4 grains: []
+
+x:2, y:0, z:4 grains: []
+
+x:3, y:0, z:4 grains: []
+
+x:4, y:0, z:4 grains: []
+
+x:5, y:0, z:4 grains: []
+
+x:6, y:0, z:4 grains: []
+
+x:7, y:0, z:4 grains: []
+
+x:8, y:0, z:4 grains: []
+
+x:9, y:0, z:4 grains: []
+
+x:10, y:0, z:4 grains: []
+
+x:0, y:1, z:4 grains: []
+
+x:1, y:1, z:4 grains: []
+
+x:2, y:1, z:4 grains: []
+
+x:3, y:1, z:4 grains: []
+
+x:4, y:1, z:4 grains: []
+
+x:5, y:1, z:4 grains: []
+
+x:6, y:1, z:4 grains: []
+
+x:7, y:1, z:4 grains: []
+
+x:8, y:1, z:4 grains: []
+
+x:9, y:1, z:4 grains: []
+
+x:10, y:1, z:4 grains: []
+
+x:0, y:2, z:4 grains: []
+
+x:1, y:2, z:4 grains: []
+
+x:2, y:2, z:4 grains: []
+
+x:3, y:2, z:4 grains: []
+
+x:4, y:2, z:4 grains: []
+
+x:5, y:2, z:4 grains: []
+
+x:6, y:2, z:4 grains: []
+
+x:7, y:2, z:4 grains: []
+
+x:8, y:2, z:4 grains: []
+
+x:9, y:2, z:4 grains: []
+
+x:10, y:2, z:4 grains: []
+
+x:0, y:3, z:4 grains: []
+
+x:1, y:3, z:4 grains: []
+
+x:2, y:3, z:4 grains: []
+
+x:3, y:3, z:4 grains: []
+
+x:4, y:3, z:4 grains: []
+
+x:5, y:3, z:4 grains: []
+
+x:6, y:3, z:4 grains: []
+
+x:7, y:3, z:4 grains: []
+
+x:8, y:3, z:4 grains: []
+
+x:9, y:3, z:4 grains: []
+
+x:10, y:3, z:4 grains: []
+
+x:0, y:4, z:4 grains: []
+
+x:1, y:4, z:4 grains: []
+
+x:2, y:4, z:4 grains: []
+
+x:3, y:4, z:4 grains: []
+
+x:4, y:4, z:4 grains: [99273, 99985]
+ Grain id: 99273, x: 4, y: 4, z: 4, energy: 19
+ Grain id: 99985, x: 4, y: 4, z: 4, energy: 0
+
+x:5, y:4, z:4 grains: [99274, 99285, 99288, 99327]
+ Grain id: 99274, x: 5, y: 4, z: 4, energy: 29
+ Grain id: 99285, x: 5, y: 4, z: 4, energy: 29
+ Grain id: 99288, x: 5, y: 4, z: 4, energy: 29
+ Grain id: 99327, x: 5, y: 4, z: 4, energy: 29
+
+x:6, y:4, z:4 grains: [99798, 99808]
+ Grain id: 99798, x: 6, y: 4, z: 4, energy: 5
+ Grain id: 99808, x: 6, y: 4, z: 4, energy: 5
+
+x:7, y:4, z:4 grains: []
+
+x:8, y:4, z:4 grains: []
+
+x:9, y:4, z:4 grains: []
+
+x:10, y:4, z:4 grains: []
+
+x:0, y:5, z:4 grains: []
+
+x:1, y:5, z:4 grains: []
+
+x:2, y:5, z:4 grains: []
+
+x:3, y:5, z:4 grains: []
+
+x:4, y:5, z:4 grains: []
+
+x:5, y:5, z:4 grains: []
+
+x:6, y:5, z:4 grains: []
+
+x:7, y:5, z:4 grains: []
+
+x:8, y:5, z:4 grains: []
+
+x:9, y:5, z:4 grains: []
+
+x:10, y:5, z:4 grains: []
+
+x:0, y:6, z:4 grains: []
+
+x:1, y:6, z:4 grains: []
+
+x:2, y:6, z:4 grains: []
+
+x:3, y:6, z:4 grains: []
+
+x:4, y:6, z:4 grains: [99562, 99771, 99784, 99817]
+ Grain id: 99562, x: 4, y: 6, z: 4, energy: 15
+ Grain id: 99771, x: 4, y: 6, z: 4, energy: 9
+ Grain id: 99784, x: 4, y: 6, z: 4, energy: 9
+ Grain id: 99817, x: 4, y: 6, z: 4, energy: 9
+
+x:5, y:6, z:4 grains: [98453, 98458, 98465, 98469]
+ Grain id: 98453, x: 5, y: 6, z: 4, energy: 66
+ Grain id: 98458, x: 5, y: 6, z: 4, energy: 66
+ Grain id: 98465, x: 5, y: 6, z: 4, energy: 66
+ Grain id: 98469, x: 5, y: 6, z: 4, energy: 66
+
+x:6, y:6, z:4 grains: [98223, 98240, 98254, 98259]
+ Grain id: 98223, x: 6, y: 6, z: 4, energy: 18
+ Grain id: 98240, x: 6, y: 6, z: 4, energy: 17
+ Grain id: 98254, x: 6, y: 6, z: 4, energy: 17
+ Grain id: 98259, x: 6, y: 6, z: 4, energy: 17
+
+x:7, y:6, z:4 grains: []
+
+x:8, y:6, z:4 grains: []
+
+x:9, y:6, z:4 grains: []
+
+x:10, y:6, z:4 grains: []
+
+x:0, y:7, z:4 grains: []
+
+x:1, y:7, z:4 grains: []
+
+x:2, y:7, z:4 grains: []
+
+x:3, y:7, z:4 grains: []
+
+x:4, y:7, z:4 grains: []
+
+x:5, y:7, z:4 grains: []
+
+x:6, y:7, z:4 grains: []
+
+x:7, y:7, z:4 grains: []
+
+x:8, y:7, z:4 grains: []
+
+x:9, y:7, z:4 grains: []
+
+x:10, y:7, z:4 grains: []
+
+x:0, y:8, z:4 grains: []
+
+x:1, y:8, z:4 grains: []
+
+x:2, y:8, z:4 grains: []
+
+x:3, y:8, z:4 grains: []
+
+x:4, y:8, z:4 grains: []
+
+x:5, y:8, z:4 grains: []
+
+x:6, y:8, z:4 grains: []
+
+x:7, y:8, z:4 grains: []
+
+x:8, y:8, z:4 grains: []
+
+x:9, y:8, z:4 grains: []
+
+x:10, y:8, z:4 grains: []
+
+x:0, y:9, z:4 grains: []
+
+x:1, y:9, z:4 grains: []
+
+x:2, y:9, z:4 grains: []
+
+x:3, y:9, z:4 grains: []
+
+x:4, y:9, z:4 grains: []
+
+x:5, y:9, z:4 grains: []
+
+x:6, y:9, z:4 grains: []
+
+x:7, y:9, z:4 grains: []
+
+x:8, y:9, z:4 grains: []
+
+x:9, y:9, z:4 grains: []
+
+x:10, y:9, z:4 grains: []
+
+x:0, y:10, z:4 grains: []
+
+x:1, y:10, z:4 grains: []
+
+x:2, y:10, z:4 grains: []
+
+x:3, y:10, z:4 grains: []
+
+x:4, y:10, z:4 grains: []
+
+x:5, y:10, z:4 grains: []
+
+x:6, y:10, z:4 grains: []
+
+x:7, y:10, z:4 grains: []
+
+x:8, y:10, z:4 grains: []
+
+x:9, y:10, z:4 grains: []
+
+x:10, y:10, z:4 grains: []
+
+x:0, y:0, z:3 grains: []
+
+x:1, y:0, z:3 grains: []
+
+x:2, y:0, z:3 grains: []
+
+x:3, y:0, z:3 grains: []
+
+x:4, y:0, z:3 grains: []
+
+x:5, y:0, z:3 grains: []
+
+x:6, y:0, z:3 grains: []
+
+x:7, y:0, z:3 grains: []
+
+x:8, y:0, z:3 grains: []
+
+x:9, y:0, z:3 grains: []
+
+x:10, y:0, z:3 grains: []
+
+x:0, y:1, z:3 grains: []
+
+x:1, y:1, z:3 grains: []
+
+x:2, y:1, z:3 grains: []
+
+x:3, y:1, z:3 grains: []
+
+x:4, y:1, z:3 grains: []
+
+x:5, y:1, z:3 grains: []
+
+x:6, y:1, z:3 grains: []
+
+x:7, y:1, z:3 grains: []
+
+x:8, y:1, z:3 grains: []
+
+x:9, y:1, z:3 grains: []
+
+x:10, y:1, z:3 grains: []
+
+x:0, y:2, z:3 grains: []
+
+x:1, y:2, z:3 grains: []
+
+x:2, y:2, z:3 grains: []
+
+x:3, y:2, z:3 grains: []
+
+x:4, y:2, z:3 grains: []
+
+x:5, y:2, z:3 grains: []
+
+x:6, y:2, z:3 grains: []
+
+x:7, y:2, z:3 grains: []
+
+x:8, y:2, z:3 grains: []
+
+x:9, y:2, z:3 grains: []
+
+x:10, y:2, z:3 grains: []
+
+x:0, y:3, z:3 grains: []
+
+x:1, y:3, z:3 grains: []
+
+x:2, y:3, z:3 grains: []
+
+x:3, y:3, z:3 grains: [99878, 99915]
+ Grain id: 99878, x: 3, y: 3, z: 3, energy: 0
+ Grain id: 99915, x: 3, y: 3, z: 3, energy: 0
+
+x:4, y:3, z:3 grains: []
+
+x:5, y:3, z:3 grains: [99933, 99999]
+ Grain id: 99933, x: 5, y: 3, z: 3, energy: 0
+ Grain id: 99999, x: 5, y: 3, z: 3, energy: 0
+
+x:6, y:3, z:3 grains: [99712]
+ Grain id: 99712, x: 6, y: 3, z: 3, energy: 3
+
+x:7, y:3, z:3 grains: []
+
+x:8, y:3, z:3 grains: []
+
+x:9, y:3, z:3 grains: []
+
+x:10, y:3, z:3 grains: []
+
+x:0, y:4, z:3 grains: []
+
+x:1, y:4, z:3 grains: []
+
+x:2, y:4, z:3 grains: []
+
+x:3, y:4, z:3 grains: []
+
+x:4, y:4, z:3 grains: [99733, 99757, 99758, 99760]
+ Grain id: 99733, x: 4, y: 4, z: 3, energy: 7
+ Grain id: 99757, x: 4, y: 4, z: 3, energy: 6
+ Grain id: 99758, x: 4, y: 4, z: 3, energy: 6
+ Grain id: 99760, x: 4, y: 4, z: 3, energy: 6
+
+x:5, y:4, z:3 grains: []
+
+x:6, y:4, z:3 grains: [99753]
+ Grain id: 99753, x: 6, y: 4, z: 3, energy: 4
+
+x:7, y:4, z:3 grains: [99716, 99741]
+ Grain id: 99716, x: 7, y: 4, z: 3, energy: 6
+ Grain id: 99741, x: 7, y: 4, z: 3, energy: 4
+
+x:8, y:4, z:3 grains: []
+
+x:9, y:4, z:3 grains: []
+
+x:10, y:4, z:3 grains: []
+
+x:0, y:5, z:3 grains: []
+
+x:1, y:5, z:3 grains: []
+
+x:2, y:5, z:3 grains: []
+
+x:3, y:5, z:3 grains: [99105, 99326, 99371, 99438]
+ Grain id: 99105, x: 3, y: 5, z: 3, energy: 10
+ Grain id: 99326, x: 3, y: 5, z: 3, energy: 10
+ Grain id: 99371, x: 3, y: 5, z: 3, energy: 10
+ Grain id: 99438, x: 3, y: 5, z: 3, energy: 10
+
+x:4, y:5, z:3 grains: []
+
+x:5, y:5, z:3 grains: [99957]
+ Grain id: 99957, x: 5, y: 5, z: 3, energy: 9
+
+x:6, y:5, z:3 grains: [99979, 99994, 99995, 99996]
+ Grain id: 99979, x: 6, y: 5, z: 3, energy: 0
+ Grain id: 99994, x: 6, y: 5, z: 3, energy: 0
+ Grain id: 99995, x: 6, y: 5, z: 3, energy: 0
+ Grain id: 99996, x: 6, y: 5, z: 3, energy: 0
+
+x:7, y:5, z:3 grains: []
+
+x:8, y:5, z:3 grains: []
+
+x:9, y:5, z:3 grains: []
+
+x:10, y:5, z:3 grains: []
+
+x:0, y:6, z:3 grains: []
+
+x:1, y:6, z:3 grains: []
+
+x:2, y:6, z:3 grains: []
+
+x:3, y:6, z:3 grains: [98187, 98317, 98372, 98431]
+ Grain id: 98187, x: 3, y: 6, z: 3, energy: 20
+ Grain id: 98317, x: 3, y: 6, z: 3, energy: 20
+ Grain id: 98372, x: 3, y: 6, z: 3, energy: 20
+ Grain id: 98431, x: 3, y: 6, z: 3, energy: 20
+
+x:4, y:6, z:3 grains: [99950]
+ Grain id: 99950, x: 4, y: 6, z: 3, energy: 1
+
+x:5, y:6, z:3 grains: [99782, 99793, 99806, 99807]
+ Grain id: 99782, x: 5, y: 6, z: 3, energy: 5
+ Grain id: 99793, x: 5, y: 6, z: 3, energy: 5
+ Grain id: 99806, x: 5, y: 6, z: 3, energy: 5
+ Grain id: 99807, x: 5, y: 6, z: 3, energy: 5
+
+x:6, y:6, z:3 grains: [99893, 99941]
+ Grain id: 99893, x: 6, y: 6, z: 3, energy: 0
+ Grain id: 99941, x: 6, y: 6, z: 3, energy: 0
+
+x:7, y:6, z:3 grains: [99596]
+ Grain id: 99596, x: 7, y: 6, z: 3, energy: 0
+
+x:8, y:6, z:3 grains: []
+
+x:9, y:6, z:3 grains: []
+
+x:10, y:6, z:3 grains: []
+
+x:0, y:7, z:3 grains: []
+
+x:1, y:7, z:3 grains: []
+
+x:2, y:7, z:3 grains: []
+
+x:3, y:7, z:3 grains: [95733, 99140]
+ Grain id: 95733, x: 3, y: 7, z: 3, energy: 18
+ Grain id: 99140, x: 3, y: 7, z: 3, energy: 4
+
+x:4, y:7, z:3 grains: [99126]
+ Grain id: 99126, x: 4, y: 7, z: 3, energy: 4
+
+x:5, y:7, z:3 grains: [99624]
+ Grain id: 99624, x: 5, y: 7, z: 3, energy: 11
+
+x:6, y:7, z:3 grains: [97374, 99566, 99751, 99820]
+ Grain id: 97374, x: 6, y: 7, z: 3, energy: 27
+ Grain id: 99566, x: 6, y: 7, z: 3, energy: 4
+ Grain id: 99751, x: 6, y: 7, z: 3, energy: 3
+ Grain id: 99820, x: 6, y: 7, z: 3, energy: 3
+
+x:7, y:7, z:3 grains: []
+
+x:8, y:7, z:3 grains: []
+
+x:9, y:7, z:3 grains: []
+
+x:10, y:7, z:3 grains: []
+
+x:0, y:8, z:3 grains: []
+
+x:1, y:8, z:3 grains: []
+
+x:2, y:8, z:3 grains: []
+
+x:3, y:8, z:3 grains: []
+
+x:4, y:8, z:3 grains: []
+
+x:5, y:8, z:3 grains: []
+
+x:6, y:8, z:3 grains: []
+
+x:7, y:8, z:3 grains: []
+
+x:8, y:8, z:3 grains: []
+
+x:9, y:8, z:3 grains: []
+
+x:10, y:8, z:3 grains: []
+
+x:0, y:9, z:3 grains: []
+
+x:1, y:9, z:3 grains: []
+
+x:2, y:9, z:3 grains: []
+
+x:3, y:9, z:3 grains: []
+
+x:4, y:9, z:3 grains: []
+
+x:5, y:9, z:3 grains: []
+
+x:6, y:9, z:3 grains: []
+
+x:7, y:9, z:3 grains: []
+
+x:8, y:9, z:3 grains: []
+
+x:9, y:9, z:3 grains: []
+
+x:10, y:9, z:3 grains: []
+
+x:0, y:10, z:3 grains: []
+
+x:1, y:10, z:3 grains: []
+
+x:2, y:10, z:3 grains: []
+
+x:3, y:10, z:3 grains: []
+
+x:4, y:10, z:3 grains: []
+
+x:5, y:10, z:3 grains: []
+
+x:6, y:10, z:3 grains: []
+
+x:7, y:10, z:3 grains: []
+
+x:8, y:10, z:3 grains: []
+
+x:9, y:10, z:3 grains: []
+
+x:10, y:10, z:3 grains: []
+
+x:0, y:0, z:2 grains: []
+
+x:1, y:0, z:2 grains: []
+
+x:2, y:0, z:2 grains: []
+
+x:3, y:0, z:2 grains: []
+
+x:4, y:0, z:2 grains: []
+
+x:5, y:0, z:2 grains: []
+
+x:6, y:0, z:2 grains: []
+
+x:7, y:0, z:2 grains: []
+
+x:8, y:0, z:2 grains: []
+
+x:9, y:0, z:2 grains: []
+
+x:10, y:0, z:2 grains: []
+
+x:0, y:1, z:2 grains: []
+
+x:1, y:1, z:2 grains: []
+
+x:2, y:1, z:2 grains: []
+
+x:3, y:1, z:2 grains: []
+
+x:4, y:1, z:2 grains: []
+
+x:5, y:1, z:2 grains: []
+
+x:6, y:1, z:2 grains: []
+
+x:7, y:1, z:2 grains: []
+
+x:8, y:1, z:2 grains: []
+
+x:9, y:1, z:2 grains: []
+
+x:10, y:1, z:2 grains: []
+
+x:0, y:2, z:2 grains: []
+
+x:1, y:2, z:2 grains: []
+
+x:2, y:2, z:2 grains: [96432, 98113, 98961, 99594]
+ Grain id: 96432, x: 2, y: 2, z: 2, energy: 2
+ Grain id: 98113, x: 2, y: 2, z: 2, energy: 1
+ Grain id: 98961, x: 2, y: 2, z: 2, energy: 1
+ Grain id: 99594, x: 2, y: 2, z: 2, energy: 1
+
+x:3, y:2, z:2 grains: [99212]
+ Grain id: 99212, x: 3, y: 2, z: 2, energy: 4
+
+x:4, y:2, z:2 grains: []
+
+x:5, y:2, z:2 grains: [99514, 99746, 99801, 99944]
+ Grain id: 99514, x: 5, y: 2, z: 2, energy: 0
+ Grain id: 99746, x: 5, y: 2, z: 2, energy: 0
+ Grain id: 99801, x: 5, y: 2, z: 2, energy: 0
+ Grain id: 99944, x: 5, y: 2, z: 2, energy: 0
+
+x:6, y:2, z:2 grains: [99406]
+ Grain id: 99406, x: 6, y: 2, z: 2, energy: 0
+
+x:7, y:2, z:2 grains: [94892, 99015]
+ Grain id: 94892, x: 7, y: 2, z: 2, energy: 4
+ Grain id: 99015, x: 7, y: 2, z: 2, energy: 1
+
+x:8, y:2, z:2 grains: []
+
+x:9, y:2, z:2 grains: []
+
+x:10, y:2, z:2 grains: []
+
+x:0, y:3, z:2 grains: []
+
+x:1, y:3, z:2 grains: []
+
+x:2, y:3, z:2 grains: []
+
+x:3, y:3, z:2 grains: [90668, 99719, 99709, 99724]
+ Grain id: 90668, x: 3, y: 3, z: 2, energy: 37
+ Grain id: 99719, x: 3, y: 3, z: 2, energy: 1
+ Grain id: 99709, x: 3, y: 3, z: 2, energy: 1
+ Grain id: 99724, x: 3, y: 3, z: 2, energy: 1
+
+x:4, y:3, z:2 grains: [99943, 99947, 99972]
+ Grain id: 99943, x: 4, y: 3, z: 2, energy: 0
+ Grain id: 99947, x: 4, y: 3, z: 2, energy: 0
+ Grain id: 99972, x: 4, y: 3, z: 2, energy: 0
+
+x:5, y:3, z:2 grains: [99921, 99967, 99982, 99983, 99984]
+ Grain id: 99921, x: 5, y: 3, z: 2, energy: 0
+ Grain id: 99967, x: 5, y: 3, z: 2, energy: 0
+ Grain id: 99982, x: 5, y: 3, z: 2, energy: 0
+ Grain id: 99983, x: 5, y: 3, z: 2, energy: 0
+ Grain id: 99984, x: 5, y: 3, z: 2, energy: 0
+
+x:6, y:3, z:2 grains: [99184, 99221, 99087, 99490]
+ Grain id: 99184, x: 6, y: 3, z: 2, energy: 10
+ Grain id: 99221, x: 6, y: 3, z: 2, energy: 9
+ Grain id: 99087, x: 6, y: 3, z: 2, energy: 8
+ Grain id: 99490, x: 6, y: 3, z: 2, energy: 6
+
+x:7, y:3, z:2 grains: [99383, 99822, 99971]
+ Grain id: 99383, x: 7, y: 3, z: 2, energy: 2
+ Grain id: 99822, x: 7, y: 3, z: 2, energy: 1
+ Grain id: 99971, x: 7, y: 3, z: 2, energy: 0
+
+x:8, y:3, z:2 grains: [99834]
+ Grain id: 99834, x: 8, y: 3, z: 2, energy: 0
+
+x:9, y:3, z:2 grains: []
+
+x:10, y:3, z:2 grains: []
+
+x:0, y:4, z:2 grains: []
+
+x:1, y:4, z:2 grains: []
+
+x:2, y:4, z:2 grains: [96221, 97567, 97336, 98426]
+ Grain id: 96221, x: 2, y: 4, z: 2, energy: 11
+ Grain id: 97567, x: 2, y: 4, z: 2, energy: 7
+ Grain id: 97336, x: 2, y: 4, z: 2, energy: 7
+ Grain id: 98426, x: 2, y: 4, z: 2, energy: 6
+
+x:3, y:4, z:2 grains: [99786]
+ Grain id: 99786, x: 3, y: 4, z: 2, energy: 0
+
+x:4, y:4, z:2 grains: [99886, 99903, 99926, 99937]
+ Grain id: 99886, x: 4, y: 4, z: 2, energy: 3
+ Grain id: 99903, x: 4, y: 4, z: 2, energy: 2
+ Grain id: 99926, x: 4, y: 4, z: 2, energy: 2
+ Grain id: 99937, x: 4, y: 4, z: 2, energy: 2
+
+x:5, y:4, z:2 grains: [99863, 99860, 99872, 99888]
+ Grain id: 99863, x: 5, y: 4, z: 2, energy: 0
+ Grain id: 99860, x: 5, y: 4, z: 2, energy: 0
+ Grain id: 99872, x: 5, y: 4, z: 2, energy: 0
+ Grain id: 99888, x: 5, y: 4, z: 2, energy: 0
+
+x:6, y:4, z:2 grains: [99923, 99936, 99939, 99948]
+ Grain id: 99923, x: 6, y: 4, z: 2, energy: 1
+ Grain id: 99936, x: 6, y: 4, z: 2, energy: 1
+ Grain id: 99939, x: 6, y: 4, z: 2, energy: 1
+ Grain id: 99948, x: 6, y: 4, z: 2, energy: 1
+
+x:7, y:4, z:2 grains: []
+
+x:8, y:4, z:2 grains: [98117, 99013, 99462, 99766]
+ Grain id: 98117, x: 8, y: 4, z: 2, energy: 1
+ Grain id: 99013, x: 8, y: 4, z: 2, energy: 1
+ Grain id: 99462, x: 8, y: 4, z: 2, energy: 1
+ Grain id: 99766, x: 8, y: 4, z: 2, energy: 1
+
+x:9, y:4, z:2 grains: []
+
+x:10, y:4, z:2 grains: []
+
+x:0, y:5, z:2 grains: []
+
+x:1, y:5, z:2 grains: []
+
+x:2, y:5, z:2 grains: [98414, 98967, 99017, 98403]
+ Grain id: 98414, x: 2, y: 5, z: 2, energy: 14
+ Grain id: 98967, x: 2, y: 5, z: 2, energy: 9
+ Grain id: 99017, x: 2, y: 5, z: 2, energy: 9
+ Grain id: 98403, x: 2, y: 5, z: 2, energy: 9
+
+x:3, y:5, z:2 grains: [99796]
+ Grain id: 99796, x: 3, y: 5, z: 2, energy: 0
+
+x:4, y:5, z:2 grains: [97888, 99795, 99879, 99883]
+ Grain id: 97888, x: 4, y: 2, z: -1, energy: 19
+ Grain id: 99795, x: 4, y: 5, z: 2, energy: 1
+ Grain id: 99879, x: 4, y: 5, z: 2, energy: 0
+ Grain id: 99883, x: 4, y: 5, z: 2, energy: 0
+
+x:5, y:5, z:2 grains: [99997]
+ Grain id: 99997, x: 5, y: 5, z: 2, energy: 0
+
+x:6, y:5, z:2 grains: [99896, 99907, 99914, 99445]
+ Grain id: 99896, x: 6, y: 5, z: 2, energy: 5
+ Grain id: 99907, x: 6, y: 5, z: 2, energy: 3
+ Grain id: 99914, x: 6, y: 5, z: 2, energy: 2
+ Grain id: 99445, x: 6, y: 5, z: 2, energy: 2
+
+x:7, y:5, z:2 grains: [99917]
+ Grain id: 99917, x: 7, y: 5, z: 2, energy: 1
+
+x:8, y:5, z:2 grains: [96726]
+ Grain id: 96726, x: 8, y: 5, z: 2, energy: 16
+
+x:9, y:5, z:2 grains: []
+
+x:10, y:5, z:2 grains: []
+
+x:0, y:6, z:2 grains: []
+
+x:1, y:6, z:2 grains: []
+
+x:2, y:6, z:2 grains: [97971, 98418, 98219, 98521]
+ Grain id: 97971, x: 2, y: 6, z: 2, energy: 4
+ Grain id: 98418, x: 2, y: 6, z: 2, energy: 4
+ Grain id: 98219, x: 2, y: 6, z: 2, energy: 4
+ Grain id: 98521, x: 2, y: 6, z: 2, energy: 4
+
+x:3, y:6, z:2 grains: [99978]
+ Grain id: 99978, x: 3, y: 6, z: 2, energy: 0
+
+x:4, y:6, z:2 grains: []
+
+x:5, y:6, z:2 grains: [99976]
+ Grain id: 99976, x: 5, y: 6, z: 2, energy: 0
+
+x:6, y:6, z:2 grains: [99882, 99912, 99920, 99924]
+ Grain id: 99882, x: 6, y: 6, z: 2, energy: 0
+ Grain id: 99912, x: 6, y: 6, z: 2, energy: 0
+ Grain id: 99920, x: 6, y: 6, z: 2, energy: 0
+ Grain id: 99924, x: 6, y: 6, z: 2, energy: 0
+
+x:7, y:6, z:2 grains: [99805, 99809, 99756, 99853]
+ Grain id: 99805, x: 7, y: 6, z: 2, energy: 0
+ Grain id: 99809, x: 7, y: 6, z: 2, energy: 0
+ Grain id: 99756, x: 7, y: 6, z: 2, energy: 0
+ Grain id: 99853, x: 7, y: 6, z: 2, energy: 0
+
+x:8, y:6, z:2 grains: [97393, 98386, 98573, 99033]
+ Grain id: 97393, x: 8, y: 6, z: 2, energy: 2
+ Grain id: 98386, x: 8, y: 6, z: 2, energy: 2
+ Grain id: 98573, x: 8, y: 6, z: 2, energy: 2
+ Grain id: 99033, x: 8, y: 6, z: 2, energy: 2
+
+x:9, y:6, z:2 grains: []
+
+x:10, y:6, z:2 grains: []
+
+x:0, y:7, z:2 grains: []
+
+x:1, y:7, z:2 grains: []
+
+x:2, y:7, z:2 grains: []
+
+x:3, y:7, z:2 grains: []
+
+x:4, y:7, z:2 grains: [96731, 96807, 97093, 97232]
+ Grain id: 96731, x: 4, y: 7, z: 2, energy: 7
+ Grain id: 96807, x: 4, y: 7, z: 2, energy: 6
+ Grain id: 97093, x: 4, y: 7, z: 2, energy: 5
+ Grain id: 97232, x: 4, y: 7, z: 2, energy: 5
+
+x:5, y:7, z:2 grains: []
+
+x:6, y:7, z:2 grains: []
+
+x:7, y:7, z:2 grains: []
+
+x:8, y:7, z:2 grains: [97995, 98455, 98820, 98761, 99360]
+ Grain id: 97995, x: 8, y: 7, z: 2, energy: 2
+ Grain id: 98455, x: 8, y: 7, z: 2, energy: 2
+ Grain id: 98820, x: 8, y: 7, z: 2, energy: 2
+ Grain id: 98761, x: 8, y: 7, z: 2, energy: 2
+ Grain id: 99360, x: 8, y: 7, z: 2, energy: 0
+
+x:9, y:7, z:2 grains: []
+
+x:10, y:7, z:2 grains: []
+
+x:0, y:8, z:2 grains: []
+
+x:1, y:8, z:2 grains: []
+
+x:2, y:8, z:2 grains: [72561, 87650]
+ Grain id: 72561, x: 2, y: 8, z: 2, energy: 16
+ Grain id: 87650, x: 2, y: 8, z: 2, energy: 5
+
+x:3, y:8, z:2 grains: [96304, 97400, 98271, 97740]
+ Grain id: 96304, x: 3, y: 8, z: 2, energy: 6
+ Grain id: 97400, x: 3, y: 8, z: 2, energy: 6
+ Grain id: 98271, x: 3, y: 8, z: 2, energy: 3
+ Grain id: 97740, x: 3, y: 8, z: 2, energy: 2
+
+x:4, y:8, z:2 grains: [88482, 88495, 95157, 96017, 96015]
+ Grain id: 88482, x: 4, y: 8, z: 2, energy: 9
+ Grain id: 88495, x: 4, y: 8, z: 2, energy: 9
+ Grain id: 95157, x: 4, y: 8, z: 2, energy: 1
+ Grain id: 96017, x: 4, y: 8, z: 2, energy: 1
+ Grain id: 96015, x: 4, y: 8, z: 2, energy: 1
+
+x:5, y:8, z:2 grains: [99552, 99960]
+ Grain id: 99552, x: 5, y: 8, z: 2, energy: 3
+ Grain id: 99960, x: 5, y: 8, z: 2, energy: 0
+
+x:6, y:8, z:2 grains: [97730]
+ Grain id: 97730, x: 6, y: 8, z: 2, energy: 2
+
+x:7, y:8, z:2 grains: []
+
+x:8, y:8, z:2 grains: [99512, 98485]
+ Grain id: 99512, x: 8, y: 8, z: 2, energy: 0
+ Grain id: 98485, x: 8, y: 8, z: 2, energy: 0
+
+x:9, y:8, z:2 grains: []
+
+x:10, y:8, z:2 grains: []
+
+x:0, y:9, z:2 grains: []
+
+x:1, y:9, z:2 grains: []
+
+x:2, y:9, z:2 grains: []
+
+x:3, y:9, z:2 grains: []
+
+x:4, y:9, z:2 grains: []
+
+x:5, y:9, z:2 grains: []
+
+x:6, y:9, z:2 grains: []
+
+x:7, y:9, z:2 grains: []
+
+x:8, y:9, z:2 grains: []
+
+x:9, y:9, z:2 grains: []
+
+x:10, y:9, z:2 grains: []
+
+x:0, y:10, z:2 grains: []
+
+x:1, y:10, z:2 grains: []
+
+x:2, y:10, z:2 grains: []
+
+x:3, y:10, z:2 grains: []
+
+x:4, y:10, z:2 grains: []
+
+x:5, y:10, z:2 grains: []
+
+x:6, y:10, z:2 grains: []
+
+x:7, y:10, z:2 grains: []
+
+x:8, y:10, z:2 grains: []
+
+x:9, y:10, z:2 grains: []
+
+x:10, y:10, z:2 grains: []
+
+x:0, y:0, z:1 grains: []
+
+x:1, y:0, z:1 grains: []
+
+x:2, y:0, z:1 grains: []
+
+x:3, y:0, z:1 grains: []
+
+x:4, y:0, z:1 grains: []
+
+x:5, y:0, z:1 grains: []
+
+x:6, y:0, z:1 grains: []
+
+x:7, y:0, z:1 grains: []
+
+x:8, y:0, z:1 grains: []
+
+x:9, y:0, z:1 grains: []
+
+x:10, y:0, z:1 grains: []
+
+x:0, y:1, z:1 grains: []
+
+x:1, y:1, z:1 grains: [35636, 74954, 84304, 84145]
+ Grain id: 35636, x: 1, y: 1, z: 1, energy: 0
+ Grain id: 74954, x: 1, y: 1, z: 1, energy: 0
+ Grain id: 84304, x: 1, y: 1, z: 1, energy: 0
+ Grain id: 84145, x: 1, y: 1, z: 1, energy: 0
+
+x:2, y:1, z:1 grains: [30309]
+ Grain id: 30309, x: 2, y: 1, z: 1, energy: 0
+
+x:3, y:1, z:1 grains: [97672, 98331]
+ Grain id: 97672, x: 3, y: 1, z: 1, energy: 0
+ Grain id: 98331, x: 3, y: 1, z: 1, energy: 0
+
+x:4, y:1, z:1 grains: [98570]
+ Grain id: 98570, x: 4, y: 1, z: 1, energy: 0
+
+x:5, y:1, z:1 grains: [98877, 98971, 99139, 99243]
+ Grain id: 98877, x: 5, y: 1, z: 1, energy: 0
+ Grain id: 98971, x: 5, y: 1, z: 1, energy: 0
+ Grain id: 99139, x: 5, y: 1, z: 1, energy: 0
+ Grain id: 99243, x: 5, y: 1, z: 1, energy: 0
+
+x:6, y:1, z:1 grains: [99734]
+ Grain id: 99734, x: 6, y: 1, z: 1, energy: 0
+
+x:7, y:1, z:1 grains: []
+
+x:8, y:1, z:1 grains: []
+
+x:9, y:1, z:1 grains: [14927, 49591]
+ Grain id: 14927, x: 9, y: 1, z: 1, energy: 0
+ Grain id: 49591, x: 9, y: 1, z: 1, energy: 0
+
+x:10, y:1, z:1 grains: []
+
+x:0, y:2, z:1 grains: []
+
+x:1, y:2, z:1 grains: []
+
+x:2, y:2, z:1 grains: []
+
+x:3, y:2, z:1 grains: []
+
+x:4, y:2, z:1 grains: [99951]
+ Grain id: 99951, x: 4, y: 2, z: 1, energy: 0
+
+x:5, y:2, z:1 grains: [97158, 97027, 97512, 97596]
+ Grain id: 97158, x: 5, y: 2, z: 1, energy: 0
+ Grain id: 97027, x: 5, y: 2, z: 1, energy: 0
+ Grain id: 97512, x: 5, y: 2, z: 1, energy: 0
+ Grain id: 97596, x: 5, y: 2, z: 1, energy: 0
+
+x:6, y:2, z:1 grains: [98301, 97699, 98329, 98265]
+ Grain id: 98301, x: 6, y: 2, z: 1, energy: 0
+ Grain id: 97699, x: 6, y: 2, z: 1, energy: 0
+ Grain id: 98329, x: 6, y: 2, z: 1, energy: 0
+ Grain id: 98265, x: 6, y: 2, z: 1, energy: 0
+
+x:7, y:2, z:1 grains: [99970]
+ Grain id: 99970, x: 7, y: 2, z: 1, energy: 0
+
+x:8, y:2, z:1 grains: [97121, 98172, 99205]
+ Grain id: 97121, x: 8, y: 2, z: 1, energy: 0
+ Grain id: 98172, x: 8, y: 2, z: 1, energy: 0
+ Grain id: 99205, x: 8, y: 2, z: 1, energy: 0
+
+x:9, y:2, z:1 grains: [98511]
+ Grain id: 98511, x: 9, y: 2, z: 1, energy: 0
+
+x:10, y:2, z:1 grains: []
+
+x:0, y:3, z:1 grains: []
+
+x:1, y:3, z:1 grains: [91449, 99318]
+ Grain id: 91449, x: 1, y: 3, z: 1, energy: 0
+ Grain id: 99318, x: 1, y: 3, z: 1, energy: 0
+
+x:2, y:3, z:1 grains: [99631]
+ Grain id: 99631, x: 2, y: 3, z: 1, energy: 0
+
+x:3, y:3, z:1 grains: [99764, 99887]
+ Grain id: 99764, x: 3, y: 3, z: 1, energy: 0
+ Grain id: 99887, x: 3, y: 3, z: 1, energy: 0
+
+x:4, y:3, z:1 grains: [99511, 99413, 99424, 99439]
+ Grain id: 99511, x: 4, y: 3, z: 1, energy: 0
+ Grain id: 99413, x: 4, y: 3, z: 1, energy: 0
+ Grain id: 99424, x: 4, y: 3, z: 1, energy: 0
+ Grain id: 99439, x: 4, y: 3, z: 1, energy: 0
+
+x:5, y:3, z:1 grains: [98908, 98912, 98947, 98978]
+ Grain id: 98908, x: 5, y: 3, z: 1, energy: 0
+ Grain id: 98912, x: 5, y: 3, z: 1, energy: 0
+ Grain id: 98947, x: 5, y: 3, z: 1, energy: 0
+ Grain id: 98978, x: 5, y: 3, z: 1, energy: 0
+
+x:6, y:3, z:1 grains: [99725, 99913, 99415]
+ Grain id: 99725, x: 6, y: 3, z: 1, energy: 0
+ Grain id: 99913, x: 6, y: 3, z: 1, energy: 0
+ Grain id: 99415, x: 6, y: 3, z: 1, energy: 0
+
+x:7, y:3, z:1 grains: [99627, 99927, 99969, 99956]
+ Grain id: 99627, x: 7, y: 3, z: 1, energy: 0
+ Grain id: 99927, x: 7, y: 3, z: 1, energy: 0
+ Grain id: 99969, x: 7, y: 3, z: 1, energy: 0
+ Grain id: 99956, x: 7, y: 3, z: 1, energy: 0
+
+x:8, y:3, z:1 grains: [63939, 64010, 63833, 64818]
+ Grain id: 63939, x: 8, y: 3, z: 1, energy: 0
+ Grain id: 64010, x: 8, y: 3, z: 1, energy: 0
+ Grain id: 63833, x: 8, y: 3, z: 1, energy: 0
+ Grain id: 64818, x: 8, y: 3, z: 1, energy: 0
+
+x:9, y:3, z:1 grains: []
+
+x:10, y:3, z:1 grains: []
+
+x:0, y:4, z:1 grains: []
+
+x:1, y:4, z:1 grains: [97920, 98076, 98456, 99589]
+ Grain id: 97920, x: 1, y: 4, z: 1, energy: 0
+ Grain id: 98076, x: 1, y: 4, z: 1, energy: 0
+ Grain id: 98456, x: 1, y: 4, z: 1, energy: 0
+ Grain id: 99589, x: 1, y: 4, z: 1, energy: 0
+
+x:2, y:4, z:1 grains: [99612, 99776, 99804]
+ Grain id: 99612, x: 2, y: 4, z: 1, energy: 0
+ Grain id: 99776, x: 2, y: 4, z: 1, energy: 0
+ Grain id: 99804, x: 2, y: 4, z: 1, energy: 0
+
+x:3, y:4, z:1 grains: [99966]
+ Grain id: 99966, x: 3, y: 4, z: 1, energy: 0
+
+x:4, y:4, z:1 grains: [99955]
+ Grain id: 99955, x: 4, y: 4, z: 1, energy: 0
+
+x:5, y:4, z:1 grains: [99417, 99400, 99833, 99846, 99848]
+ Grain id: 99417, x: 5, y: 4, z: 1, energy: 0
+ Grain id: 99400, x: 5, y: 4, z: 1, energy: 0
+ Grain id: 99833, x: 5, y: 4, z: 1, energy: 0
+ Grain id: 99846, x: 5, y: 4, z: 1, energy: 0
+ Grain id: 99848, x: 5, y: 4, z: 1, energy: 0
+
+x:6, y:4, z:1 grains: []
+
+x:7, y:4, z:1 grains: [99518]
+ Grain id: 99518, x: 7, y: 4, z: 1, energy: 0
+
+x:8, y:4, z:1 grains: []
+
+x:9, y:4, z:1 grains: [99230]
+ Grain id: 99230, x: 9, y: 4, z: 1, energy: 0
+
+x:10, y:4, z:1 grains: []
+
+x:0, y:5, z:1 grains: []
+
+x:1, y:5, z:1 grains: []
+
+x:2, y:5, z:1 grains: [99545, 99961, 99987]
+ Grain id: 99545, x: 2, y: 5, z: 1, energy: 0
+ Grain id: 99961, x: 2, y: 5, z: 1, energy: 0
+ Grain id: 99987, x: 2, y: 5, z: 1, energy: 0
+
+x:3, y:5, z:1 grains: [99962]
+ Grain id: 99962, x: 3, y: 5, z: 1, energy: 0
+
+x:4, y:5, z:1 grains: [99857, 99949, 99662, 99990]
+ Grain id: 99857, x: 4, y: 5, z: 1, energy: 0
+ Grain id: 99949, x: 4, y: 5, z: 1, energy: 0
+ Grain id: 99662, x: 4, y: 5, z: 1, energy: 0
+ Grain id: 99990, x: 4, y: 5, z: 1, energy: 0
+
+x:5, y:5, z:1 grains: [99477, 99827, 99832, 99835]
+ Grain id: 99477, x: 5, y: 5, z: 1, energy: 0
+ Grain id: 99827, x: 5, y: 5, z: 1, energy: 0
+ Grain id: 99832, x: 5, y: 5, z: 1, energy: 0
+ Grain id: 99835, x: 5, y: 5, z: 1, energy: 0
+
+x:6, y:5, z:1 grains: [99684, 99974, 99986, 99988]
+ Grain id: 99684, x: 6, y: 5, z: 1, energy: 0
+ Grain id: 99974, x: 6, y: 5, z: 1, energy: 0
+ Grain id: 99986, x: 6, y: 5, z: 1, energy: 0
+ Grain id: 99988, x: 6, y: 5, z: 1, energy: 0
+
+x:7, y:5, z:1 grains: [99847, 99980, 99992, 99998]
+ Grain id: 99847, x: 7, y: 5, z: 1, energy: 0
+ Grain id: 99980, x: 7, y: 5, z: 1, energy: 0
+ Grain id: 99992, x: 7, y: 5, z: 1, energy: 0
+ Grain id: 99998, x: 7, y: 5, z: 1, energy: 0
+
+x:8, y:5, z:1 grains: [99535, 99813, 99403, 99235]
+ Grain id: 99535, x: 8, y: 5, z: 1, energy: 0
+ Grain id: 99813, x: 8, y: 5, z: 1, energy: 0
+ Grain id: 99403, x: 8, y: 5, z: 1, energy: 0
+ Grain id: 99235, x: 8, y: 5, z: 1, energy: 0
+
+x:9, y:5, z:1 grains: []
+
+x:10, y:5, z:1 grains: []
+
+x:0, y:6, z:1 grains: []
+
+x:1, y:6, z:1 grains: []
+
+x:2, y:6, z:1 grains: [99925, 99934]
+ Grain id: 99925, x: 2, y: 6, z: 1, energy: 0
+ Grain id: 99934, x: 2, y: 6, z: 1, energy: 0
+
+x:3, y:6, z:1 grains: [99744, 99929]
+ Grain id: 99744, x: 3, y: 6, z: 1, energy: 0
+ Grain id: 99929, x: 3, y: 6, z: 1, energy: 0
+
+x:4, y:6, z:1 grains: []
+
+x:5, y:6, z:1 grains: [99826, 99865, 99842, 99854]
+ Grain id: 99826, x: 5, y: 6, z: 1, energy: 0
+ Grain id: 99865, x: 5, y: 6, z: 1, energy: 0
+ Grain id: 99842, x: 5, y: 6, z: 1, energy: 0
+ Grain id: 99854, x: 5, y: 6, z: 1, energy: 0
+
+x:6, y:6, z:1 grains: [97344, 98754, 98849, 97414]
+ Grain id: 97344, x: 6, y: 6, z: 1, energy: 0
+ Grain id: 98754, x: 6, y: 6, z: 1, energy: 0
+ Grain id: 98849, x: 6, y: 6, z: 1, energy: 0
+ Grain id: 97414, x: 6, y: 6, z: 1, energy: 0
+
+x:7, y:6, z:1 grains: [98373, 98460, 98445, 98881]
+ Grain id: 98373, x: 7, y: 6, z: 1, energy: 0
+ Grain id: 98460, x: 7, y: 6, z: 1, energy: 0
+ Grain id: 98445, x: 7, y: 6, z: 1, energy: 0
+ Grain id: 98881, x: 7, y: 6, z: 1, energy: 0
+
+x:8, y:6, z:1 grains: [99297, 99713, 99774, 99797]
+ Grain id: 99297, x: 8, y: 6, z: 1, energy: 0
+ Grain id: 99713, x: 8, y: 6, z: 1, energy: 0
+ Grain id: 99774, x: 8, y: 6, z: 1, energy: 0
+ Grain id: 99797, x: 8, y: 6, z: 1, energy: 0
+
+x:9, y:6, z:1 grains: [99040, 99636, 99553, 99759]
+ Grain id: 99040, x: 9, y: 6, z: 1, energy: 0
+ Grain id: 99636, x: 9, y: 6, z: 1, energy: 0
+ Grain id: 99553, x: 9, y: 6, z: 1, energy: 0
+ Grain id: 99759, x: 9, y: 6, z: 1, energy: 0
+
+x:10, y:6, z:1 grains: []
+
+x:0, y:7, z:1 grains: []
+
+x:1, y:7, z:1 grains: [97610]
+ Grain id: 97610, x: 1, y: 7, z: 1, energy: 0
+
+x:2, y:7, z:1 grains: [99911]
+ Grain id: 99911, x: 2, y: 7, z: 1, energy: 0
+
+x:3, y:7, z:1 grains: [98238, 97446, 98340, 98325]
+ Grain id: 98238, x: 3, y: 7, z: 1, energy: 0
+ Grain id: 97446, x: 3, y: 7, z: 1, energy: 0
+ Grain id: 98340, x: 3, y: 7, z: 1, energy: 0
+ Grain id: 98325, x: 3, y: 7, z: 1, energy: 0
+
+x:4, y:7, z:1 grains: [99717, 99815, 99560]
+ Grain id: 99717, x: 4, y: 7, z: 1, energy: 0
+ Grain id: 99815, x: 4, y: 7, z: 1, energy: 0
+ Grain id: 99560, x: 4, y: 7, z: 1, energy: 0
+
+x:5, y:7, z:1 grains: []
+
+x:6, y:7, z:1 grains: [99623, 99940]
+ Grain id: 99623, x: 6, y: 7, z: 1, energy: 0
+ Grain id: 99940, x: 6, y: 7, z: 1, energy: 0
+
+x:7, y:7, z:1 grains: [98034, 97990, 98180, 98217]
+ Grain id: 98034, x: 7, y: 7, z: 1, energy: 0
+ Grain id: 97990, x: 7, y: 7, z: 1, energy: 0
+ Grain id: 98180, x: 7, y: 7, z: 1, energy: 0
+ Grain id: 98217, x: 7, y: 7, z: 1, energy: 0
+
+x:8, y:7, z:1 grains: [99090, 99458, 99465]
+ Grain id: 99090, x: 8, y: 7, z: 1, energy: 0
+ Grain id: 99458, x: 8, y: 7, z: 1, energy: 0
+ Grain id: 99465, x: 8, y: 7, z: 1, energy: 0
+
+x:9, y:7, z:1 grains: [94344, 97962, 98476, 99728]
+ Grain id: 94344, x: 9, y: 7, z: 1, energy: 0
+ Grain id: 97962, x: 9, y: 7, z: 1, energy: 0
+ Grain id: 98476, x: 9, y: 7, z: 1, energy: 0
+ Grain id: 99728, x: 9, y: 7, z: 1, energy: 0
+
+x:10, y:7, z:1 grains: []
+
+x:0, y:8, z:1 grains: []
+
+x:1, y:8, z:1 grains: [96204]
+ Grain id: 96204, x: 1, y: 8, z: 1, energy: 0
+
+x:2, y:8, z:1 grains: []
+
+x:3, y:8, z:1 grains: []
+
+x:4, y:8, z:1 grains: [96042, 98109, 98327, 98353, 98428]
+ Grain id: 96042, x: 4, y: 8, z: 1, energy: 0
+ Grain id: 98109, x: 4, y: 8, z: 1, energy: 0
+ Grain id: 98327, x: 4, y: 8, z: 1, energy: 0
+ Grain id: 98353, x: 4, y: 8, z: 1, energy: 0
+ Grain id: 98428, x: 4, y: 8, z: 1, energy: 0
+
+x:5, y:8, z:1 grains: [99743, 99902, 99946, 99783]
+ Grain id: 99743, x: 5, y: 8, z: 1, energy: 0
+ Grain id: 99902, x: 5, y: 8, z: 1, energy: 0
+ Grain id: 99946, x: 5, y: 8, z: 1, energy: 0
+ Grain id: 99783, x: 5, y: 8, z: 1, energy: 0
+
+x:6, y:8, z:1 grains: [99317, 99448, 99993]
+ Grain id: 99317, x: 6, y: 8, z: 1, energy: 0
+ Grain id: 99448, x: 6, y: 8, z: 1, energy: 0
+ Grain id: 99993, x: 6, y: 8, z: 1, energy: 0
+
+x:7, y:8, z:1 grains: [97795, 98232, 93812, 98506]
+ Grain id: 97795, x: 7, y: 8, z: 1, energy: 0
+ Grain id: 98232, x: 7, y: 8, z: 1, energy: 0
+ Grain id: 93812, x: 7, y: 8, z: 1, energy: 0
+ Grain id: 98506, x: 7, y: 8, z: 1, energy: 0
+
+x:8, y:8, z:1 grains: []
+
+x:9, y:8, z:1 grains: [99591]
+ Grain id: 99591, x: 9, y: 8, z: 1, energy: 0
+
+x:10, y:8, z:1 grains: []
+
+x:0, y:9, z:1 grains: []
+
+x:1, y:9, z:1 grains: []
+
+x:2, y:9, z:1 grains: []
+
+x:3, y:9, z:1 grains: [67843, 80635, 81486, 81760]
+ Grain id: 67843, x: 3, y: 9, z: 1, energy: 0
+ Grain id: 80635, x: 3, y: 9, z: 1, energy: 0
+ Grain id: 81486, x: 3, y: 9, z: 1, energy: 0
+ Grain id: 81760, x: 3, y: 9, z: 1, energy: 0
+
+x:4, y:9, z:1 grains: [68664, 71432, 75773, 75825]
+ Grain id: 68664, x: 4, y: 9, z: 1, energy: 0
+ Grain id: 71432, x: 4, y: 9, z: 1, energy: 0
+ Grain id: 75773, x: 4, y: 9, z: 1, energy: 0
+ Grain id: 75825, x: 4, y: 9, z: 1, energy: 0
+
+x:5, y:9, z:1 grains: []
+
+x:6, y:9, z:1 grains: [97433, 97631, 97339, 97895]
+ Grain id: 97433, x: 6, y: 9, z: 1, energy: 0
+ Grain id: 97631, x: 6, y: 9, z: 1, energy: 0
+ Grain id: 97339, x: 6, y: 9, z: 1, energy: 0
+ Grain id: 97895, x: 6, y: 9, z: 1, energy: 0
+
+x:7, y:9, z:1 grains: [92832]
+ Grain id: 92832, x: 7, y: 9, z: 1, energy: 0
+
+x:8, y:9, z:1 grains: [2503, 98377]
+ Grain id: 2503, x: 8, y: 9, z: 1, energy: 0
+ Grain id: 98377, x: 8, y: 9, z: 1, energy: 0
+
+x:9, y:9, z:1 grains: [91927, 92076]
+ Grain id: 91927, x: 9, y: 9, z: 1, energy: 0
+ Grain id: 92076, x: 9, y: 9, z: 1, energy: 0
+
+x:10, y:9, z:1 grains: []
+
+x:0, y:10, z:1 grains: []
+
+x:1, y:10, z:1 grains: []
+
+x:2, y:10, z:1 grains: []
+
+x:3, y:10, z:1 grains: []
+
+x:4, y:10, z:1 grains: []
+
+x:5, y:10, z:1 grains: []
+
+x:6, y:10, z:1 grains: []
+
+x:7, y:10, z:1 grains: []
+
+x:8, y:10, z:1 grains: []
+
+x:9, y:10, z:1 grains: []
+
+x:10, y:10, z:1 grains: []
+
+x:0, y:0, z:0 grains: [910, 7941, 35974, 69446]
+ Grain id: 910, x: 0, y: 0, z: 0, energy: 0
+ Grain id: 7941, x: 0, y: 0, z: 0, energy: 0
+ Grain id: 35974, x: 0, y: 0, z: 0, energy: 0
+ Grain id: 69446, x: 0, y: 0, z: 0, energy: 0
+
+x:1, y:0, z:0 grains: [20971, 43982, 46339, 37662]
+ Grain id: 20971, x: 1, y: 0, z: 0, energy: 0
+ Grain id: 43982, x: 1, y: 0, z: 0, energy: 0
+ Grain id: 46339, x: 1, y: 0, z: 0, energy: 0
+ Grain id: 37662, x: 1, y: 0, z: 0, energy: 0
+
+x:2, y:0, z:0 grains: [2266, 12419, 12356, 13545]
+ Grain id: 2266, x: 2, y: 0, z: 0, energy: 0
+ Grain id: 12419, x: 2, y: 0, z: 0, energy: 0
+ Grain id: 12356, x: 2, y: 0, z: 0, energy: 0
+ Grain id: 13545, x: 2, y: 0, z: 0, energy: 0
+
+x:3, y:0, z:0 grains: [1405, 1749, 5566, 10781]
+ Grain id: 1405, x: 3, y: 0, z: 0, energy: 0
+ Grain id: 1749, x: 3, y: 0, z: 0, energy: 0
+ Grain id: 5566, x: 3, y: 0, z: 0, energy: 0
+ Grain id: 10781, x: 3, y: 0, z: 0, energy: 0
+
+x:4, y:0, z:0 grains: [974, 1198, 2051, 2738]
+ Grain id: 974, x: 4, y: 0, z: 0, energy: 0
+ Grain id: 1198, x: 4, y: 0, z: 0, energy: 0
+ Grain id: 2051, x: 4, y: 0, z: 0, energy: 0
+ Grain id: 2738, x: 4, y: 0, z: 0, energy: 0
+
+x:5, y:0, z:0 grains: [267, 495, 497, 1039]
+ Grain id: 267, x: 5, y: 0, z: 0, energy: 0
+ Grain id: 495, x: 5, y: 0, z: 0, energy: 0
+ Grain id: 497, x: 5, y: 0, z: 0, energy: 0
+ Grain id: 1039, x: 5, y: 0, z: 0, energy: 0
+
+x:6, y:0, z:0 grains: [577, 775, 521, 2500]
+ Grain id: 577, x: 6, y: 0, z: 0, energy: 0
+ Grain id: 775, x: 6, y: 0, z: 0, energy: 0
+ Grain id: 521, x: 6, y: 0, z: 0, energy: 0
+ Grain id: 2500, x: 6, y: 0, z: 0, energy: 0
+
+x:7, y:0, z:0 grains: [1714, 6115, 424, 8439]
+ Grain id: 1714, x: 7, y: 0, z: 0, energy: 0
+ Grain id: 6115, x: 7, y: 0, z: 0, energy: 0
+ Grain id: 424, x: 7, y: 0, z: 0, energy: 0
+ Grain id: 8439, x: 7, y: 0, z: 0, energy: 0
+
+x:8, y:0, z:0 grains: [4902, 13359, 15389, 15711]
+ Grain id: 4902, x: 8, y: 0, z: 0, energy: 0
+ Grain id: 13359, x: 8, y: 0, z: 0, energy: 0
+ Grain id: 15389, x: 8, y: 0, z: 0, energy: 0
+ Grain id: 15711, x: 8, y: 0, z: 0, energy: 0
+
+x:9, y:0, z:0 grains: [455, 12505, 33291, 40343, 44762, 57227]
+ Grain id: 455, x: 9, y: 0, z: 0, energy: 0
+ Grain id: 12505, x: 9, y: 0, z: 0, energy: 0
+ Grain id: 33291, x: 9, y: 0, z: 0, energy: 0
+ Grain id: 40343, x: 9, y: 0, z: 0, energy: 0
+ Grain id: 44762, x: 9, y: 0, z: 0, energy: 0
+ Grain id: 57227, x: 9, y: 0, z: 0, energy: 0
+
+x:10, y:0, z:0 grains: [30469, 62125]
+ Grain id: 30469, x: 10, y: 0, z: 0, energy: 0
+ Grain id: 62125, x: 10, y: 0, z: 0, energy: 0
+
+x:0, y:1, z:0 grains: [16770, 23379, 30812, 39816]
+ Grain id: 16770, x: 0, y: 1, z: 0, energy: 0
+ Grain id: 23379, x: 0, y: 1, z: 0, energy: 0
+ Grain id: 30812, x: 0, y: 1, z: 0, energy: 0
+ Grain id: 39816, x: 0, y: 1, z: 0, energy: 0
+
+x:1, y:1, z:0 grains: [1113, 1167, 1271, 1048]
+ Grain id: 1113, x: 1, y: 1, z: 0, energy: 0
+ Grain id: 1167, x: 1, y: 1, z: 0, energy: 0
+ Grain id: 1271, x: 1, y: 1, z: 0, energy: 0
+ Grain id: 1048, x: 1, y: 1, z: 0, energy: 0
+
+x:2, y:1, z:0 grains: [1177, 1193, 1197, 1398]
+ Grain id: 1177, x: 2, y: 1, z: 0, energy: 0
+ Grain id: 1193, x: 2, y: 1, z: 0, energy: 0
+ Grain id: 1197, x: 2, y: 1, z: 0, energy: 0
+ Grain id: 1398, x: 2, y: 1, z: 0, energy: 0
+
+x:3, y:1, z:0 grains: [616, 629, 627, 728]
+ Grain id: 616, x: 3, y: 1, z: 0, energy: 0
+ Grain id: 629, x: 3, y: 1, z: 0, energy: 0
+ Grain id: 627, x: 3, y: 1, z: 0, energy: 0
+ Grain id: 728, x: 3, y: 1, z: 0, energy: 0
+
+x:4, y:1, z:0 grains: [379, 484, 505, 536]
+ Grain id: 379, x: 4, y: 1, z: 0, energy: 0
+ Grain id: 484, x: 4, y: 1, z: 0, energy: 0
+ Grain id: 505, x: 4, y: 1, z: 0, energy: 0
+ Grain id: 536, x: 4, y: 1, z: 0, energy: 0
+
+x:5, y:1, z:0 grains: [309, 328, 411, 504]
+ Grain id: 309, x: 5, y: 1, z: 0, energy: 0
+ Grain id: 328, x: 5, y: 1, z: 0, energy: 0
+ Grain id: 411, x: 5, y: 1, z: 0, energy: 0
+ Grain id: 504, x: 5, y: 1, z: 0, energy: 0
+
+x:6, y:1, z:0 grains: [332, 567, 388, 630]
+ Grain id: 332, x: 6, y: 1, z: 0, energy: 0
+ Grain id: 567, x: 6, y: 1, z: 0, energy: 0
+ Grain id: 388, x: 6, y: 1, z: 0, energy: 0
+ Grain id: 630, x: 6, y: 1, z: 0, energy: 0
+
+x:7, y:1, z:0 grains: [393, 750, 787, 838, 824]
+ Grain id: 393, x: 7, y: 1, z: 0, energy: 0
+ Grain id: 750, x: 7, y: 1, z: 0, energy: 0
+ Grain id: 787, x: 7, y: 1, z: 0, energy: 0
+ Grain id: 838, x: 7, y: 1, z: 0, energy: 0
+ Grain id: 824, x: 7, y: 1, z: 0, energy: 0
+
+x:8, y:1, z:0 grains: [480, 527, 722, 571]
+ Grain id: 480, x: 8, y: 1, z: 0, energy: 0
+ Grain id: 527, x: 8, y: 1, z: 0, energy: 0
+ Grain id: 722, x: 8, y: 1, z: 0, energy: 0
+ Grain id: 571, x: 8, y: 1, z: 0, energy: 0
+
+x:9, y:1, z:0 grains: [924, 1006, 778, 975]
+ Grain id: 924, x: 9, y: 1, z: 0, energy: 0
+ Grain id: 1006, x: 9, y: 1, z: 0, energy: 0
+ Grain id: 778, x: 9, y: 1, z: 0, energy: 0
+ Grain id: 975, x: 9, y: 1, z: 0, energy: 0
+
+x:10, y:1, z:0 grains: [2880, 20058, 30043, 35715]
+ Grain id: 2880, x: 10, y: 1, z: 0, energy: 0
+ Grain id: 20058, x: 10, y: 1, z: 0, energy: 0
+ Grain id: 30043, x: 10, y: 1, z: 0, energy: 0
+ Grain id: 35715, x: 10, y: 1, z: 0, energy: 0
+
+x:0, y:2, z:0 grains: [15292, 28497, 37143, 34122]
+ Grain id: 15292, x: 0, y: 2, z: 0, energy: 0
+ Grain id: 28497, x: 0, y: 2, z: 0, energy: 0
+ Grain id: 37143, x: 0, y: 2, z: 0, energy: 0
+ Grain id: 34122, x: 0, y: 2, z: 0, energy: 0
+
+x:1, y:2, z:0 grains: [655, 811, 1016, 1012]
+ Grain id: 655, x: 1, y: 2, z: 0, energy: 0
+ Grain id: 811, x: 1, y: 2, z: 0, energy: 0
+ Grain id: 1016, x: 1, y: 2, z: 0, energy: 0
+ Grain id: 1012, x: 1, y: 2, z: 0, energy: 0
+
+x:2, y:2, z:0 grains: [121, 262, 479, 465]
+ Grain id: 121, x: 2, y: 2, z: 0, energy: 0
+ Grain id: 262, x: 2, y: 2, z: 0, energy: 0
+ Grain id: 479, x: 2, y: 2, z: 0, energy: 0
+ Grain id: 465, x: 2, y: 2, z: 0, energy: 0
+
+x:3, y:2, z:0 grains: [420, 415, 564, 524]
+ Grain id: 420, x: 3, y: 2, z: 0, energy: 0
+ Grain id: 415, x: 3, y: 2, z: 0, energy: 0
+ Grain id: 564, x: 3, y: 2, z: 0, energy: 0
+ Grain id: 524, x: 3, y: 2, z: 0, energy: 0
+
+x:4, y:2, z:0 grains: [319, 399, 39, 369]
+ Grain id: 319, x: 4, y: 2, z: 0, energy: 0
+ Grain id: 399, x: 4, y: 2, z: 0, energy: 0
+ Grain id: 39, x: 4, y: 2, z: 0, energy: 0
+ Grain id: 369, x: 4, y: 2, z: 0, energy: 0
+
+x:5, y:2, z:0 grains: [10, 205, 237, 247]
+ Grain id: 10, x: 5, y: 2, z: 0, energy: 0
+ Grain id: 205, x: 5, y: 2, z: 0, energy: 0
+ Grain id: 237, x: 5, y: 2, z: 0, energy: 0
+ Grain id: 247, x: 5, y: 2, z: 0, energy: 0
+
+x:6, y:2, z:0 grains: [156, 43, 263, 305]
+ Grain id: 156, x: 6, y: 2, z: 0, energy: 0
+ Grain id: 43, x: 6, y: 2, z: 0, energy: 0
+ Grain id: 263, x: 6, y: 2, z: 0, energy: 0
+ Grain id: 305, x: 6, y: 2, z: 0, energy: 0
+
+x:7, y:2, z:0 grains: [201, 76, 325, 290]
+ Grain id: 201, x: 7, y: 2, z: 0, energy: 0
+ Grain id: 76, x: 7, y: 2, z: 0, energy: 0
+ Grain id: 325, x: 7, y: 2, z: 0, energy: 0
+ Grain id: 290, x: 7, y: 2, z: 0, energy: 0
+
+x:8, y:2, z:0 grains: [341, 572, 626, 755]
+ Grain id: 341, x: 8, y: 2, z: 0, energy: 0
+ Grain id: 572, x: 8, y: 2, z: 0, energy: 0
+ Grain id: 626, x: 8, y: 2, z: 0, energy: 0
+ Grain id: 755, x: 8, y: 2, z: 0, energy: 0
+
+x:9, y:2, z:0 grains: [513, 713, 886, 1128]
+ Grain id: 513, x: 9, y: 2, z: 0, energy: 0
+ Grain id: 713, x: 9, y: 2, z: 0, energy: 0
+ Grain id: 886, x: 9, y: 2, z: 0, energy: 0
+ Grain id: 1128, x: 9, y: 2, z: 0, energy: 0
+
+x:10, y:2, z:0 grains: [6635, 16406, 611, 2802]
+ Grain id: 6635, x: 10, y: 2, z: 0, energy: 0
+ Grain id: 16406, x: 10, y: 2, z: 0, energy: 0
+ Grain id: 611, x: 10, y: 2, z: 0, energy: 0
+ Grain id: 2802, x: 10, y: 2, z: 0, energy: 0
+
+x:0, y:3, z:0 grains: [828, 1955, 2725, 3567]
+ Grain id: 828, x: 0, y: 3, z: 0, energy: 0
+ Grain id: 1955, x: 0, y: 3, z: 0, energy: 0
+ Grain id: 2725, x: 0, y: 3, z: 0, energy: 0
+ Grain id: 3567, x: 0, y: 3, z: 0, energy: 0
+
+x:1, y:3, z:0 grains: [581, 509, 656, 593]
+ Grain id: 581, x: 1, y: 3, z: 0, energy: 0
+ Grain id: 509, x: 1, y: 3, z: 0, energy: 0
+ Grain id: 656, x: 1, y: 3, z: 0, energy: 0
+ Grain id: 593, x: 1, y: 3, z: 0, energy: 0
+
+x:2, y:3, z:0 grains: [175, 352, 390, 31]
+ Grain id: 175, x: 2, y: 3, z: 0, energy: 0
+ Grain id: 352, x: 2, y: 3, z: 0, energy: 0
+ Grain id: 390, x: 2, y: 3, z: 0, energy: 0
+ Grain id: 31, x: 2, y: 3, z: 0, energy: 0
+
+x:3, y:3, z:0 grains: [62, 189, 336, 396]
+ Grain id: 62, x: 3, y: 3, z: 0, energy: 0
+ Grain id: 189, x: 3, y: 3, z: 0, energy: 0
+ Grain id: 336, x: 3, y: 3, z: 0, energy: 0
+ Grain id: 396, x: 3, y: 3, z: 0, energy: 0
+
+x:4, y:3, z:0 grains: [146, 184, 227, 127]
+ Grain id: 146, x: 4, y: 3, z: 0, energy: 0
+ Grain id: 184, x: 4, y: 3, z: 0, energy: 0
+ Grain id: 227, x: 4, y: 3, z: 0, energy: 0
+ Grain id: 127, x: 4, y: 3, z: 0, energy: 0
+
+x:5, y:3, z:0 grains: [49, 58, 87, 93]
+ Grain id: 49, x: 5, y: 3, z: 0, energy: 0
+ Grain id: 58, x: 5, y: 3, z: 0, energy: 0
+ Grain id: 87, x: 5, y: 3, z: 0, energy: 0
+ Grain id: 93, x: 5, y: 3, z: 0, energy: 0
+
+x:6, y:3, z:0 grains: [91, 182, 215, 235]
+ Grain id: 91, x: 6, y: 3, z: 0, energy: 0
+ Grain id: 182, x: 6, y: 3, z: 0, energy: 0
+ Grain id: 215, x: 6, y: 3, z: 0, energy: 0
+ Grain id: 235, x: 6, y: 3, z: 0, energy: 0
+
+x:7, y:3, z:0 grains: [105, 128, 75, 308]
+ Grain id: 105, x: 7, y: 3, z: 0, energy: 0
+ Grain id: 128, x: 7, y: 3, z: 0, energy: 0
+ Grain id: 75, x: 7, y: 3, z: 0, energy: 0
+ Grain id: 308, x: 7, y: 3, z: 0, energy: 0
+
+x:8, y:3, z:0 grains: [64, 288, 382, 421]
+ Grain id: 64, x: 8, y: 3, z: 0, energy: 0
+ Grain id: 288, x: 8, y: 3, z: 0, energy: 0
+ Grain id: 382, x: 8, y: 3, z: 0, energy: 0
+ Grain id: 421, x: 8, y: 3, z: 0, energy: 0
+
+x:9, y:3, z:0 grains: [528, 592, 432, 132]
+ Grain id: 528, x: 9, y: 3, z: 0, energy: 0
+ Grain id: 592, x: 9, y: 3, z: 0, energy: 0
+ Grain id: 432, x: 9, y: 3, z: 0, energy: 0
+ Grain id: 132, x: 9, y: 3, z: 0, energy: 0
+
+x:10, y:3, z:0 grains: [111, 265, 1617, 1781]
+ Grain id: 111, x: 10, y: 3, z: 0, energy: 0
+ Grain id: 265, x: 10, y: 3, z: 0, energy: 0
+ Grain id: 1617, x: 10, y: 3, z: 0, energy: 0
+ Grain id: 1781, x: 10, y: 3, z: 0, energy: 0
+
+x:0, y:4, z:0 grains: [1001, 690, 1944, 2895]
+ Grain id: 1001, x: 0, y: 4, z: 0, energy: 0
+ Grain id: 690, x: 0, y: 4, z: 0, energy: 0
+ Grain id: 1944, x: 0, y: 4, z: 0, energy: 0
+ Grain id: 2895, x: 0, y: 4, z: 0, energy: 0
+
+x:1, y:4, z:0 grains: [330, 316, 470, 289]
+ Grain id: 330, x: 1, y: 4, z: 0, energy: 0
+ Grain id: 316, x: 1, y: 4, z: 0, energy: 0
+ Grain id: 470, x: 1, y: 4, z: 0, energy: 0
+ Grain id: 289, x: 1, y: 4, z: 0, energy: 0
+
+x:2, y:4, z:0 grains: [60, 187, 207, 226]
+ Grain id: 60, x: 2, y: 4, z: 0, energy: 0
+ Grain id: 187, x: 2, y: 4, z: 0, energy: 0
+ Grain id: 207, x: 2, y: 4, z: 0, energy: 0
+ Grain id: 226, x: 2, y: 4, z: 0, energy: 0
+
+x:3, y:4, z:0 grains: [71, 95, 213, 214]
+ Grain id: 71, x: 3, y: 4, z: 0, energy: 0
+ Grain id: 95, x: 3, y: 4, z: 0, energy: 0
+ Grain id: 213, x: 3, y: 4, z: 0, energy: 0
+ Grain id: 214, x: 3, y: 4, z: 0, energy: 0
+
+x:4, y:4, z:0 grains: [25, 47, 86, 34]
+ Grain id: 25, x: 4, y: 4, z: 0, energy: 0
+ Grain id: 47, x: 4, y: 4, z: 0, energy: 0
+ Grain id: 86, x: 4, y: 4, z: 0, energy: 0
+ Grain id: 34, x: 4, y: 4, z: 0, energy: 0
+
+x:5, y:4, z:0 grains: [27, 28, 56, 61]
+ Grain id: 27, x: 5, y: 4, z: 0, energy: 0
+ Grain id: 28, x: 5, y: 4, z: 0, energy: 0
+ Grain id: 56, x: 5, y: 4, z: 0, energy: 0
+ Grain id: 61, x: 5, y: 4, z: 0, energy: 0
+
+x:6, y:4, z:0 grains: [38, 85, 157, 137]
+ Grain id: 38, x: 6, y: 4, z: 0, energy: 0
+ Grain id: 85, x: 6, y: 4, z: 0, energy: 0
+ Grain id: 157, x: 6, y: 4, z: 0, energy: 0
+ Grain id: 137, x: 6, y: 4, z: 0, energy: 0
+
+x:7, y:4, z:0 grains: [63, 203, 208, 197]
+ Grain id: 63, x: 7, y: 4, z: 0, energy: 0
+ Grain id: 203, x: 7, y: 4, z: 0, energy: 0
+ Grain id: 208, x: 7, y: 4, z: 0, energy: 0
+ Grain id: 197, x: 7, y: 4, z: 0, energy: 0
+
+x:8, y:4, z:0 grains: [101, 44, 20, 389]
+ Grain id: 101, x: 8, y: 4, z: 0, energy: 0
+ Grain id: 44, x: 8, y: 4, z: 0, energy: 0
+ Grain id: 20, x: 8, y: 4, z: 0, energy: 0
+ Grain id: 389, x: 8, y: 4, z: 0, energy: 0
+
+x:9, y:4, z:0 grains: [40, 347, 651, 660]
+ Grain id: 40, x: 9, y: 4, z: 0, energy: 0
+ Grain id: 347, x: 9, y: 4, z: 0, energy: 0
+ Grain id: 651, x: 9, y: 4, z: 0, energy: 0
+ Grain id: 660, x: 9, y: 4, z: 0, energy: 0
+
+x:10, y:4, z:0 grains: [1404, 1573, 1849, 2828]
+ Grain id: 1404, x: 10, y: 4, z: 0, energy: 0
+ Grain id: 1573, x: 10, y: 4, z: 0, energy: 0
+ Grain id: 1849, x: 10, y: 4, z: 0, energy: 0
+ Grain id: 2828, x: 10, y: 4, z: 0, energy: 0
+
+x:0, y:5, z:0 grains: [92, 143, 271, 496]
+ Grain id: 92, x: 0, y: 5, z: 0, energy: 0
+ Grain id: 143, x: 0, y: 5, z: 0, energy: 0
+ Grain id: 271, x: 0, y: 5, z: 0, energy: 0
+ Grain id: 496, x: 0, y: 5, z: 0, energy: 0
+
+x:1, y:5, z:0 grains: [131, 349, 441, 380]
+ Grain id: 131, x: 1, y: 5, z: 0, energy: 0
+ Grain id: 349, x: 1, y: 5, z: 0, energy: 0
+ Grain id: 441, x: 1, y: 5, z: 0, energy: 0
+ Grain id: 380, x: 1, y: 5, z: 0, energy: 0
+
+x:2, y:5, z:0 grains: [4, 77, 81, 119]
+ Grain id: 4, x: 2, y: 5, z: 0, energy: 0
+ Grain id: 77, x: 2, y: 5, z: 0, energy: 0
+ Grain id: 81, x: 2, y: 5, z: 0, energy: 0
+ Grain id: 119, x: 2, y: 5, z: 0, energy: 0
+
+x:3, y:5, z:0 grains: [13, 26, 30, 82]
+ Grain id: 13, x: 3, y: 5, z: 0, energy: 0
+ Grain id: 26, x: 3, y: 5, z: 0, energy: 0
+ Grain id: 30, x: 3, y: 5, z: 0, energy: 0
+ Grain id: 82, x: 3, y: 5, z: 0, energy: 0
+
+x:4, y:5, z:0 grains: [6, 8, 15, 19]
+ Grain id: 6, x: 4, y: 5, z: 0, energy: 0
+ Grain id: 8, x: 4, y: 5, z: 0, energy: 0
+ Grain id: 15, x: 4, y: 5, z: 0, energy: 0
+ Grain id: 19, x: 4, y: 5, z: 0, energy: 0
+
+x:5, y:5, z:0 grains: [2, 7, 16, 18]
+ Grain id: 2, x: 5, y: 5, z: 0, energy: 0
+ Grain id: 7, x: 5, y: 5, z: 0, energy: 0
+ Grain id: 16, x: 5, y: 5, z: 0, energy: 0
+ Grain id: 18, x: 5, y: 5, z: 0, energy: 0
+
+x:6, y:5, z:0 grains: [1, 3, 9, 14]
+ Grain id: 1, x: 6, y: 5, z: 0, energy: 0
+ Grain id: 3, x: 6, y: 5, z: 0, energy: 0
+ Grain id: 9, x: 6, y: 5, z: 0, energy: 0
+ Grain id: 14, x: 6, y: 5, z: 0, energy: 0
+
+x:7, y:5, z:0 grains: [12, 118, 139, 145]
+ Grain id: 12, x: 7, y: 5, z: 0, energy: 0
+ Grain id: 118, x: 7, y: 5, z: 0, energy: 0
+ Grain id: 139, x: 7, y: 5, z: 0, energy: 0
+ Grain id: 145, x: 7, y: 5, z: 0, energy: 0
+
+x:8, y:5, z:0 grains: [11, 51, 21, 261]
+ Grain id: 11, x: 8, y: 5, z: 0, energy: 0
+ Grain id: 51, x: 8, y: 5, z: 0, energy: 0
+ Grain id: 21, x: 8, y: 5, z: 0, energy: 0
+ Grain id: 261, x: 8, y: 5, z: 0, energy: 0
+
+x:9, y:5, z:0 grains: [24, 310, 333, 337]
+ Grain id: 24, x: 9, y: 5, z: 0, energy: 0
+ Grain id: 310, x: 9, y: 5, z: 0, energy: 0
+ Grain id: 333, x: 9, y: 5, z: 0, energy: 0
+ Grain id: 337, x: 9, y: 5, z: 0, energy: 0
+
+x:10, y:5, z:0 grains: [73, 370, 434, 791]
+ Grain id: 73, x: 10, y: 5, z: 0, energy: 0
+ Grain id: 370, x: 10, y: 5, z: 0, energy: 0
+ Grain id: 434, x: 10, y: 5, z: 0, energy: 0
+ Grain id: 791, x: 10, y: 5, z: 0, energy: 0
+
+x:0, y:6, z:0 grains: [1642, 2046, 3435, 3690]
+ Grain id: 1642, x: 0, y: 6, z: 0, energy: 0
+ Grain id: 2046, x: 0, y: 6, z: 0, energy: 0
+ Grain id: 3435, x: 0, y: 6, z: 0, energy: 0
+ Grain id: 3690, x: 0, y: 6, z: 0, energy: 0
+
+x:1, y:6, z:0 grains: [238, 452, 568, 166]
+ Grain id: 238, x: 1, y: 6, z: 0, energy: 0
+ Grain id: 452, x: 1, y: 6, z: 0, energy: 0
+ Grain id: 568, x: 1, y: 6, z: 0, energy: 0
+ Grain id: 166, x: 1, y: 6, z: 0, energy: 0
+
+x:2, y:6, z:0 grains: [158, 115, 230, 244]
+ Grain id: 158, x: 2, y: 6, z: 0, energy: 0
+ Grain id: 115, x: 2, y: 6, z: 0, energy: 0
+ Grain id: 230, x: 2, y: 6, z: 0, energy: 0
+ Grain id: 244, x: 2, y: 6, z: 0, energy: 0
+
+x:3, y:6, z:0 grains: [36, 140, 78, 231]
+ Grain id: 36, x: 3, y: 6, z: 0, energy: 0
+ Grain id: 140, x: 3, y: 6, z: 0, energy: 0
+ Grain id: 78, x: 3, y: 6, z: 0, energy: 0
+ Grain id: 231, x: 3, y: 6, z: 0, energy: 0
+
+x:4, y:6, z:0 grains: [17, 67, 108, 170]
+ Grain id: 17, x: 4, y: 6, z: 0, energy: 0
+ Grain id: 67, x: 4, y: 6, z: 0, energy: 0
+ Grain id: 108, x: 4, y: 6, z: 0, energy: 0
+ Grain id: 170, x: 4, y: 6, z: 0, energy: 0
+
+x:5, y:6, z:0 grains: [5, 35, 41, 122, 154]
+ Grain id: 5, x: 5, y: 6, z: 0, energy: 0
+ Grain id: 35, x: 5, y: 6, z: 0, energy: 0
+ Grain id: 41, x: 5, y: 6, z: 0, energy: 0
+ Grain id: 122, x: 5, y: 6, z: 0, energy: 0
+ Grain id: 154, x: 5, y: 6, z: 0, energy: 0
+
+x:6, y:6, z:0 grains: [48, 50, 57, 59, 70, 45]
+ Grain id: 48, x: 6, y: 6, z: 0, energy: 0
+ Grain id: 50, x: 6, y: 6, z: 0, energy: 0
+ Grain id: 57, x: 6, y: 6, z: 0, energy: 0
+ Grain id: 59, x: 6, y: 6, z: 0, energy: 0
+ Grain id: 70, x: 6, y: 6, z: 0, energy: 0
+ Grain id: 45, x: 6, y: 6, z: 0, energy: 0
+
+x:7, y:6, z:0 grains: [99, 114, 195, 204]
+ Grain id: 99, x: 7, y: 6, z: 0, energy: 0
+ Grain id: 114, x: 7, y: 6, z: 0, energy: 0
+ Grain id: 195, x: 7, y: 6, z: 0, energy: 0
+ Grain id: 204, x: 7, y: 6, z: 0, energy: 0
+
+x:8, y:6, z:0 grains: [23, 233, 249, 272]
+ Grain id: 23, x: 8, y: 6, z: 0, energy: 0
+ Grain id: 233, x: 8, y: 6, z: 0, energy: 0
+ Grain id: 249, x: 8, y: 6, z: 0, energy: 0
+ Grain id: 272, x: 8, y: 6, z: 0, energy: 0
+
+x:9, y:6, z:0 grains: [255, 476, 620, 601]
+ Grain id: 255, x: 9, y: 6, z: 0, energy: 0
+ Grain id: 476, x: 9, y: 6, z: 0, energy: 0
+ Grain id: 620, x: 9, y: 6, z: 0, energy: 0
+ Grain id: 601, x: 9, y: 6, z: 0, energy: 0
+
+x:10, y:6, z:0 grains: [859, 4062, 4119, 4161]
+ Grain id: 859, x: 10, y: 6, z: 0, energy: 0
+ Grain id: 4062, x: 10, y: 6, z: 0, energy: 0
+ Grain id: 4119, x: 10, y: 6, z: 0, energy: 0
+ Grain id: 4161, x: 10, y: 6, z: 0, energy: 0
+
+x:0, y:7, z:0 grains: [639, 1349, 2294, 3748]
+ Grain id: 639, x: 0, y: 7, z: 0, energy: 0
+ Grain id: 1349, x: 0, y: 7, z: 0, energy: 0
+ Grain id: 2294, x: 0, y: 7, z: 0, energy: 0
+ Grain id: 3748, x: 0, y: 7, z: 0, energy: 0
+
+x:1, y:7, z:0 grains: [535, 443, 117, 600]
+ Grain id: 535, x: 1, y: 7, z: 0, energy: 0
+ Grain id: 443, x: 1, y: 7, z: 0, energy: 0
+ Grain id: 117, x: 1, y: 7, z: 0, energy: 0
+ Grain id: 600, x: 1, y: 7, z: 0, energy: 0
+
+x:2, y:7, z:0 grains: [33, 431, 423, 155]
+ Grain id: 33, x: 2, y: 7, z: 0, energy: 0
+ Grain id: 431, x: 2, y: 7, z: 0, energy: 0
+ Grain id: 423, x: 2, y: 7, z: 0, energy: 0
+ Grain id: 155, x: 2, y: 7, z: 0, energy: 0
+
+x:3, y:7, z:0 grains: [32, 245, 29, 321, 345]
+ Grain id: 32, x: 3, y: 7, z: 0, energy: 0
+ Grain id: 245, x: 3, y: 7, z: 0, energy: 0
+ Grain id: 29, x: 3, y: 7, z: 0, energy: 0
+ Grain id: 321, x: 3, y: 7, z: 0, energy: 0
+ Grain id: 345, x: 3, y: 7, z: 0, energy: 0
+
+x:4, y:7, z:0 grains: [68, 66, 110, 177]
+ Grain id: 68, x: 4, y: 7, z: 0, energy: 0
+ Grain id: 66, x: 4, y: 7, z: 0, energy: 0
+ Grain id: 110, x: 4, y: 7, z: 0, energy: 0
+ Grain id: 177, x: 4, y: 7, z: 0, energy: 0
+
+x:5, y:7, z:0 grains: [0, 46, 72, 100]
+ Grain id: 0, x: 5, y: 7, z: 0, energy: 0
+ Grain id: 46, x: 5, y: 7, z: 0, energy: 0
+ Grain id: 72, x: 5, y: 7, z: 0, energy: 0
+ Grain id: 100, x: 5, y: 7, z: 0, energy: 0
+
+x:6, y:7, z:0 grains: [191, 190, 221, 222]
+ Grain id: 191, x: 6, y: 7, z: 0, energy: 0
+ Grain id: 190, x: 6, y: 7, z: 0, energy: 0
+ Grain id: 221, x: 6, y: 7, z: 0, energy: 0
+ Grain id: 222, x: 6, y: 7, z: 0, energy: 0
+
+x:7, y:7, z:0 grains: [65, 135, 275, 398]
+ Grain id: 65, x: 7, y: 7, z: 0, energy: 0
+ Grain id: 135, x: 7, y: 7, z: 0, energy: 0
+ Grain id: 275, x: 7, y: 7, z: 0, energy: 0
+ Grain id: 398, x: 7, y: 7, z: 0, energy: 0
+
+x:8, y:7, z:0 grains: [312, 477, 293, 475]
+ Grain id: 312, x: 8, y: 7, z: 0, energy: 0
+ Grain id: 477, x: 8, y: 7, z: 0, energy: 0
+ Grain id: 293, x: 8, y: 7, z: 0, energy: 0
+ Grain id: 475, x: 8, y: 7, z: 0, energy: 0
+
+x:9, y:7, z:0 grains: [510, 634, 621, 317]
+ Grain id: 510, x: 8, y: 8, z: 0, energy: 0
+ Grain id: 634, x: 9, y: 7, z: 0, energy: 0
+ Grain id: 621, x: 9, y: 7, z: 0, energy: 0
+ Grain id: 317, x: 9, y: 7, z: 0, energy: 0
+
+x:10, y:7, z:0 grains: [949, 6234, 2782, 7510]
+ Grain id: 949, x: 10, y: 7, z: 0, energy: 0
+ Grain id: 6234, x: 10, y: 7, z: 0, energy: 0
+ Grain id: 2782, x: 10, y: 7, z: 0, energy: 0
+ Grain id: 7510, x: 10, y: 7, z: 0, energy: 0
+
+x:0, y:8, z:0 grains: [2128, 5128, 16255, 21361]
+ Grain id: 2128, x: 0, y: 8, z: 0, energy: 0
+ Grain id: 5128, x: 0, y: 8, z: 0, energy: 0
+ Grain id: 16255, x: 0, y: 8, z: 0, energy: 0
+ Grain id: 21361, x: 0, y: 8, z: 0, energy: 0
+
+x:1, y:8, z:0 grains: [667, 743, 895, 1003]
+ Grain id: 667, x: 1, y: 8, z: 0, energy: 0
+ Grain id: 743, x: 1, y: 8, z: 0, energy: 0
+ Grain id: 895, x: 1, y: 8, z: 0, energy: 0
+ Grain id: 1003, x: 1, y: 8, z: 0, energy: 0
+
+x:2, y:8, z:0 grains: [194, 172, 481, 442]
+ Grain id: 194, x: 2, y: 8, z: 0, energy: 0
+ Grain id: 172, x: 2, y: 8, z: 0, energy: 0
+ Grain id: 481, x: 2, y: 8, z: 0, energy: 0
+ Grain id: 442, x: 2, y: 8, z: 0, energy: 0
+
+x:3, y:8, z:0 grains: [112, 98, 381, 217, 636]
+ Grain id: 112, x: 3, y: 8, z: 0, energy: 0
+ Grain id: 98, x: 3, y: 8, z: 0, energy: 0
+ Grain id: 381, x: 3, y: 8, z: 0, energy: 0
+ Grain id: 217, x: 3, y: 8, z: 0, energy: 0
+ Grain id: 636, x: 3, y: 8, z: 0, energy: 0
+
+x:4, y:8, z:0 grains: [89, 74, 285, 346]
+ Grain id: 89, x: 4, y: 8, z: 0, energy: 0
+ Grain id: 74, x: 4, y: 8, z: 0, energy: 0
+ Grain id: 285, x: 4, y: 8, z: 0, energy: 0
+ Grain id: 346, x: 4, y: 8, z: 0, energy: 0
+
+x:5, y:8, z:0 grains: [53, 160, 102, 129]
+ Grain id: 53, x: 5, y: 8, z: 0, energy: 0
+ Grain id: 160, x: 5, y: 8, z: 0, energy: 0
+ Grain id: 102, x: 5, y: 8, z: 0, energy: 0
+ Grain id: 129, x: 5, y: 8, z: 0, energy: 0
+
+x:6, y:8, z:0 grains: [179, 269, 212, 286, 331]
+ Grain id: 179, x: 6, y: 8, z: 0, energy: 0
+ Grain id: 269, x: 6, y: 8, z: 0, energy: 0
+ Grain id: 212, x: 6, y: 8, z: 0, energy: 0
+ Grain id: 286, x: 6, y: 8, z: 0, energy: 0
+ Grain id: 331, x: 6, y: 8, z: 0, energy: 0
+
+x:7, y:8, z:0 grains: [324, 392, 181, 116]
+ Grain id: 324, x: 7, y: 8, z: 0, energy: 0
+ Grain id: 392, x: 7, y: 8, z: 0, energy: 0
+ Grain id: 181, x: 7, y: 8, z: 0, energy: 0
+ Grain id: 116, x: 7, y: 8, z: 0, energy: 0
+
+x:8, y:8, z:0 grains: [400, 510, 672, 646]
+ Grain id: 400, x: 8, y: 8, z: 0, energy: 0
+ Grain id: 510, x: 8, y: 8, z: 0, energy: 0
+ Grain id: 672, x: 8, y: 8, z: 0, energy: 0
+ Grain id: 646, x: 8, y: 8, z: 0, energy: 0
+
+x:9, y:8, z:0 grains: [619, 410, 883, 899]
+ Grain id: 619, x: 9, y: 8, z: 0, energy: 0
+ Grain id: 410, x: 9, y: 8, z: 0, energy: 0
+ Grain id: 883, x: 9, y: 8, z: 0, energy: 0
+ Grain id: 899, x: 9, y: 8, z: 0, energy: 0
+
+x:10, y:8, z:0 grains: [4546, 14099, 21246, 24815, 26475]
+ Grain id: 4546, x: 10, y: 8, z: 0, energy: 0
+ Grain id: 14099, x: 10, y: 8, z: 0, energy: 0
+ Grain id: 21246, x: 10, y: 8, z: 0, energy: 0
+ Grain id: 24815, x: 10, y: 8, z: 0, energy: 0
+ Grain id: 26475, x: 10, y: 8, z: 0, energy: 0
+
+x:0, y:9, z:0 grains: [13692, 24791, 38816, 42695, 55768]
+ Grain id: 13692, x: 0, y: 9, z: 0, energy: 0
+ Grain id: 24791, x: 0, y: 9, z: 0, energy: 0
+ Grain id: 38816, x: 0, y: 9, z: 0, energy: 0
+ Grain id: 42695, x: 0, y: 9, z: 0, energy: 0
+ Grain id: 55768, x: 0, y: 9, z: 0, energy: 0
+
+x:1, y:9, z:0 grains: [1489, 1380, 1395, 2006]
+ Grain id: 1489, x: 1, y: 9, z: 0, energy: 0
+ Grain id: 1380, x: 1, y: 9, z: 0, energy: 0
+ Grain id: 1395, x: 1, y: 9, z: 0, energy: 0
+ Grain id: 2006, x: 1, y: 9, z: 0, energy: 0
+
+x:2, y:9, z:0 grains: [712, 757, 531, 875]
+ Grain id: 712, x: 2, y: 9, z: 0, energy: 0
+ Grain id: 757, x: 2, y: 9, z: 0, energy: 0
+ Grain id: 531, x: 2, y: 9, z: 0, energy: 0
+ Grain id: 875, x: 2, y: 9, z: 0, energy: 0
+
+x:3, y:9, z:0 grains: [635, 416, 680, 738, 681]
+ Grain id: 635, x: 3, y: 9, z: 0, energy: 0
+ Grain id: 416, x: 3, y: 9, z: 0, energy: 0
+ Grain id: 680, x: 3, y: 9, z: 0, energy: 0
+ Grain id: 738, x: 3, y: 9, z: 0, energy: 0
+ Grain id: 681, x: 3, y: 9, z: 0, energy: 0
+
+x:4, y:9, z:0 grains: [228, 130, 300, 80, 688]
+ Grain id: 228, x: 4, y: 9, z: 0, energy: 0
+ Grain id: 130, x: 4, y: 9, z: 0, energy: 0
+ Grain id: 300, x: 4, y: 9, z: 0, energy: 0
+ Grain id: 80, x: 4, y: 9, z: 0, energy: 0
+ Grain id: 688, x: 4, y: 9, z: 0, energy: 0
+
+x:5, y:9, z:0 grains: [144, 240, 327, 278]
+ Grain id: 144, x: 5, y: 9, z: 0, energy: 0
+ Grain id: 240, x: 5, y: 9, z: 0, energy: 0
+ Grain id: 327, x: 5, y: 9, z: 0, energy: 0
+ Grain id: 278, x: 5, y: 9, z: 0, energy: 0
+
+x:6, y:9, z:0 grains: [42, 355, 604, 659]
+ Grain id: 42, x: 6, y: 9, z: 0, energy: 0
+ Grain id: 355, x: 6, y: 9, z: 0, energy: 0
+ Grain id: 604, x: 6, y: 9, z: 0, energy: 0
+ Grain id: 659, x: 6, y: 9, z: 0, energy: 0
+
+x:7, y:9, z:0 grains: [149, 574, 717, 806]
+ Grain id: 149, x: 7, y: 9, z: 0, energy: 0
+ Grain id: 574, x: 7, y: 9, z: 0, energy: 0
+ Grain id: 717, x: 7, y: 9, z: 0, energy: 0
+ Grain id: 806, x: 7, y: 9, z: 0, energy: 0
+
+x:8, y:9, z:0 grains: [436, 692, 827, 749]
+ Grain id: 436, x: 8, y: 9, z: 0, energy: 0
+ Grain id: 692, x: 8, y: 9, z: 0, energy: 0
+ Grain id: 827, x: 8, y: 9, z: 0, energy: 0
+ Grain id: 749, x: 8, y: 9, z: 0, energy: 0
+
+x:9, y:9, z:0 grains: [836, 958, 1032, 551]
+ Grain id: 836, x: 9, y: 9, z: 0, energy: 0
+ Grain id: 958, x: 9, y: 9, z: 0, energy: 0
+ Grain id: 1032, x: 9, y: 9, z: 0, energy: 0
+ Grain id: 551, x: 9, y: 9, z: 0, energy: 0
+
+x:10, y:9, z:0 grains: [5489, 44868, 34171, 51509]
+ Grain id: 5489, x: 10, y: 9, z: 0, energy: 0
+ Grain id: 44868, x: 10, y: 9, z: 0, energy: 0
+ Grain id: 34171, x: 10, y: 9, z: 0, energy: 0
+ Grain id: 51509, x: 10, y: 9, z: 0, energy: 0
+
+x:0, y:10, z:0 grains: [66817]
+ Grain id: 66817, x: 0, y: 10, z: 0, energy: 0
+
+x:1, y:10, z:0 grains: [42352, 58822, 74725, 89385]
+ Grain id: 42352, x: 1, y: 10, z: 0, energy: 0
+ Grain id: 58822, x: 1, y: 10, z: 0, energy: 0
+ Grain id: 74725, x: 1, y: 10, z: 0, energy: 0
+ Grain id: 89385, x: 1, y: 10, z: 0, energy: 0
+
+x:2, y:10, z:0 grains: [10563, 17700, 20141, 27203, 28622]
+ Grain id: 10563, x: 2, y: 10, z: 0, energy: 0
+ Grain id: 17700, x: 2, y: 10, z: 0, energy: 0
+ Grain id: 20141, x: 2, y: 10, z: 0, energy: 0
+ Grain id: 27203, x: 2, y: 10, z: 0, energy: 0
+ Grain id: 28622, x: 2, y: 10, z: 0, energy: 0
+
+x:3, y:10, z:0 grains: [2090, 1333, 7170, 11824, 17246]
+ Grain id: 2090, x: 3, y: 10, z: 0, energy: 0
+ Grain id: 1333, x: 3, y: 10, z: 0, energy: 0
+ Grain id: 7170, x: 3, y: 10, z: 0, energy: 0
+ Grain id: 11824, x: 3, y: 10, z: 0, energy: 0
+ Grain id: 17246, x: 3, y: 10, z: 0, energy: 0
+
+x:4, y:10, z:0 grains: [1175, 1660, 2897, 1801]
+ Grain id: 1175, x: 4, y: 10, z: 0, energy: 0
+ Grain id: 1660, x: 4, y: 10, z: 0, energy: 0
+ Grain id: 2897, x: 4, y: 10, z: 0, energy: 0
+ Grain id: 1801, x: 4, y: 10, z: 0, energy: 0
+
+x:5, y:10, z:0 grains: [412, 532, 595, 1219]
+ Grain id: 412, x: 5, y: 10, z: 0, energy: 0
+ Grain id: 532, x: 5, y: 10, z: 0, energy: 0
+ Grain id: 595, x: 5, y: 10, z: 0, energy: 0
+ Grain id: 1219, x: 5, y: 10, z: 0, energy: 0
+
+x:6, y:10, z:0 grains: [1731, 2162, 5463, 1545]
+ Grain id: 1731, x: 6, y: 10, z: 0, energy: 0
+ Grain id: 2162, x: 6, y: 10, z: 0, energy: 0
+ Grain id: 5463, x: 6, y: 10, z: 0, energy: 0
+ Grain id: 1545, x: 6, y: 10, z: 0, energy: 0
+
+x:7, y:10, z:0 grains: [587, 3660, 4430, 2224]
+ Grain id: 587, x: 7, y: 10, z: 0, energy: 0
+ Grain id: 3660, x: 7, y: 10, z: 0, energy: 0
+ Grain id: 4430, x: 7, y: 10, z: 0, energy: 0
+ Grain id: 2224, x: 7, y: 10, z: 0, energy: 0
+
+x:8, y:10, z:0 grains: [12265, 14221, 15458, 15997]
+ Grain id: 12265, x: 8, y: 10, z: 0, energy: 0
+ Grain id: 14221, x: 8, y: 10, z: 0, energy: 0
+ Grain id: 15458, x: 8, y: 10, z: 0, energy: 0
+ Grain id: 15997, x: 8, y: 10, z: 0, energy: 0
+
+x:9, y:10, z:0 grains: [27780, 33595, 38599, 52941]
+ Grain id: 27780, x: 9, y: 10, z: 0, energy: 0
+ Grain id: 33595, x: 9, y: 10, z: 0, energy: 0
+ Grain id: 38599, x: 9, y: 10, z: 0, energy: 0
+ Grain id: 52941, x: 9, y: 10, z: 0, energy: 0
+
+x:10, y:10, z:0 grains: [24926, 72994, 53570]
+ Grain id: 24926, x: 10, y: 10, z: 0, energy: 0
+ Grain id: 72994, x: 10, y: 10, z: 0, energy: 0
+ Grain id: 53570, x: 10, y: 10, z: 0, energy: 0

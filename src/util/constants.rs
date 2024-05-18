@@ -34,12 +34,12 @@ pub const ALPHA_LOCATION_EXTRA_RESILIENCE: f64 = 1.15;
 // total allowed dimensions of the pile
 pub const X_SIZE: i32 = 21;
 pub const Y_SIZE: i32 = 21;
-pub const Z_SIZE: i32 = 16;
+pub const Z_SIZE: i32 = 13;
 
 // Physics constants
-pub const TERMINAL_FREE_FALL_SPEED: usize = 4;
+pub const TERMINAL_FREE_FALL_SPEED: usize = 3;
 pub const BASE_RESILIENCE: usize = 3;
-pub const BASE_CAPACITY: usize = 4;
+pub const BASE_CAPACITY: usize = 3;
 // chose between size or percent for the avalanche size
 pub const BASE_AVALANCHE_METHOD: usize = 2; // 1 = size, 2 = percent
 // IF BASE_AVALANCHE_METHOD=1: base size of avalanche (will have result of ALPHA_AVALANCHE_SIZE added to it)
@@ -48,4 +48,4 @@ pub const BASE_AVALANCHE_SIZE: usize = 2;
 pub const BASE_AVALANCHE_SIZE_PERCENT: f64 = 0.75;
 
 // Total gains to be introduced into the system
-pub const TOTAL_GRAINS: usize = 1000;
+pub const TOTAL_GRAINS: usize = 10000000;

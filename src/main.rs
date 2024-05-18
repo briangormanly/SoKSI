@@ -156,7 +156,7 @@ fn main() {
 
             }
         }
-
+        //Location::displayPileToConsole();
         if DEBUG && DEBUG_AVALANCHE { println!( "Avalanche {} END: total movement: {}, total grains involved: {}", i, avalanches[i].totalMovement, avalanches[i].totalGrainsInvolved) };
         if DEBUG && DEBUG_AVALANCHE { println!( "/n/n----------------------------------------------------------------------------------------------") };
     }

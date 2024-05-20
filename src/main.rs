@@ -117,16 +117,16 @@ fn main() {
     // for each grain, create an avalanche
     for i in 0..TOTAL_GRAINS {
 
-        // Add the new falling grain to the avalanche, this is grain 0
+        // Add the new falling grain to the avalanche, this is the initial grain for this avalanche
         avalanches[i].addGrain(i as u32);
 
         if DEBUG && DEBUG_AVALANCHE { println!( "\n\n----------------------------------------------------------------------------------------------") };
         if DEBUG && DEBUG_AVALANCHE { println!( "Avalanche {} START", i) };
 
         // print out all of the states of the grains in the avalanche
-        for grainId in &avalanches[i].grainIds {
-            let grain = models::grain::Grain::getGrainById(*grainId).unwrap();
-        }
+        // for grainId in &avalanches[i].grainIds {
+        //     let grain = models::grain::Grain::getGrainById(*grainId).unwrap();
+        // }
 
         // Run through the avalanche until all grains have come to rest
         // first get the initial number of grains in the avalanche
@@ -156,7 +156,7 @@ fn main() {
 
             }
         }
-
+        //Location::displayPileToConsole();
         if DEBUG && DEBUG_AVALANCHE { println!( "Avalanche {} END: total movement: {}, total grains involved: {}", i, avalanches[i].totalMovement, avalanches[i].totalGrainsInvolved) };
         if DEBUG && DEBUG_AVALANCHE { println!( "/n/n----------------------------------------------------------------------------------------------") };
     }
